@@ -1,10 +1,10 @@
 <?php
 
 	// REMOVE BEFORE PUTTING ON GITHUB
-	$host = 'vistatv.wmprojects.nl'; 
-	$username = 'wmprojec_vistasu';
-	$password = 'Uw_8zY!B';
-	$database = 'wmprojec_vistatv';
+	$host = 'host'; 
+	$username = 'username';
+	$password = 'password';
+	$database = 'database';
 	
 	//$con = mysqli_connect($host,$username,$password,$database);
 	$con = new PDO('mysql:host ='.$host.';dbname='.$database, $username, $password);
