@@ -15,10 +15,10 @@ def extractSimilar(pid):
 	return json_data
 
 def writeSim(pid1, pid2, cosine):
-	conn = MySQLdb.connect(host= "localhost",
-                  user="Manon",
-                  passwd="AbbyBruno1991",
-                  db="vistatv-dbs")
+	conn = MySQLdb.connect(host= "host",
+                  user="username",
+                  passwd="password",
+                  db="databse")
 
 	x = conn.cursor()
 
