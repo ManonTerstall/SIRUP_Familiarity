@@ -184,26 +184,26 @@ def getAnswer(rec, u):
 		return 'Null', 'Null'
 
 def writeMetadata(metadata):
-	with open('/Users/manonterstall/Google Drive/Online Evaluation/questionnaire/analysis/metadata.csv', 'wb') as csvfile:
+	with open('path/metadata.csv', 'wb') as csvfile:
 		writer = csv.writer(csvfile)
 		for row in metadata:
 			writer.writerow(row)
 
 
 def writeLD(linkeddata):
-	with open('/Users/manonterstall/Google Drive/Online Evaluation/questionnaire/analysis/ld.csv', 'wb') as csvfile:
+	with open('path/ld.csv', 'wb') as csvfile:
 		writer = csv.writer(csvfile)
 		for row in linkeddata:
 			writer.writerow(row)
 
 def writeBoth(both):
-	with open('/Users/manonterstall/Google Drive/Online Evaluation/questionnaire/analysis/both.csv', 'wb') as csvfile:
+	with open('path/both.csv', 'wb') as csvfile:
 		writer = csv.writer(csvfile)
 		for row in both:
 			writer.writerow(row)
 
 def writeAll(allTogether):
-	with open('/Users/manonterstall/Google Drive/Online Evaluation/questionnaire/analysis/all.csv', 'wb') as csvfile:
+	with open('path/all.csv', 'wb') as csvfile:
 		writer = csv.writer(csvfile)
 		for row in allTogether:
 			writer.writerow(row)
@@ -277,7 +277,7 @@ def putInfo(listOne, listTwo, timeSpent, rec, totalMeta, totalLD, totalBoth ):
 # get user_ids userStart
 # get user_ids userEnd
 # result is all unique user_ids. CHECK IF NO DOUBLES IN THE END
-connection = MySQLdb.connect(host = "localhost", user = "Manon", passwd = "AbbyBruno1991", db = "analysis")
+connection = MySQLdb.connect(host = "host", user = "username", passwd = "password", db = "database")
 cursor = connection.cursor()
 cursor.execute("select distinct userEnd.user_id From userEnd INNER JOIN answerRecEighteen ON userEnd.user_id=answerRecEighteen.user_id")
 dataStart = cursor.fetchall()
