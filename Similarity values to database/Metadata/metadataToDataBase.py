@@ -9,9 +9,9 @@ import MySQLdb
 
 def writeSim(pid1, pid2, cosine):
 	conn = MySQLdb.connect(host= "localhost",
-                  user="Manon",
-                  passwd="AbbyBruno1991",
-                  db="vistatv-dbs")
+                  user="username",
+                  passwd="password",
+                  db="database")
 
 	x = conn.cursor()
 
