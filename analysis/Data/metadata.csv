@@ -1,0 +1,858 @@
+Male,44,Some college,Scotland,likeOnly,metadata,2,1,4,2,2,3,0.4,-1.0,7,4
+Male,44,Some college,Scotland,likeOnly,metadata,2,1,4,2,2,4,0.4,-1.0,7,4
+Male,44,Some college,Scotland,likeOnly,metadata,1,1,4,2,3,4,0.4,-1.0,7,4
+Male,44,Some college,Scotland,likeOnly,metadata,2,1,4,2,2,4,0.4,-1.0,7,4
+Male,44,Some college,Scotland,likeOnly,metadata,2,1,4,2,2,4,0.2,-1.0,7,4
+Male,44,Some college,Scotland,likeOnly,metadata,2,2,3,3,3,3,0.2,-1.0,7,4
+Female,37,Advanced graduate or Ph.D.,England,both,metadata,1,1,4,1,2,4,0.291666666667,0.227062072616,4,5
+Female,37,Advanced graduate or Ph.D.,England,both,metadata,2,2,2,4,5,3,0.0527024884627,0.0495490064389,4,5
+Female,37,Advanced graduate or Ph.D.,England,both,metadata,2,2,3,3,4,3,0.0620054286038,0.0586271750531,4,5
+Female,37,Advanced graduate or Ph.D.,England,both,metadata,1,1,1,1,1,5,0.25,0.0,4,5
+Female,37,Advanced graduate or Ph.D.,England,both,metadata,1,2,3,3,4,2,0.0689912533015,0.0655471743738,4,5
+Male,36,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.333333333333333,0.455341801261,3,2
+Male,36,Bachelor degree,England,both,metadata,1,2,1,5,5,1,0.333333333333333,0.130352585494,3,2
+Male,36,Bachelor degree,England,both,metadata,1,2,1,5,5,1,0.4,0.0957377759607,3,2
+Male,36,Bachelor degree,England,both,metadata,2,2,1,5,5,1,1.0,0.0918542728869,3,2
+Male,36,Bachelor degree,England,both,metadata,1,1,4,1,1,4,0.2,0.0,3,2
+Male,36,Bachelor degree,England,both,metadata,2,2,2,4,1,3,0.2,0.0,3,2
+Male,36,Bachelor degree,England,both,metadata,2,2,2,3,2,3,0.2,0.0,3,2
+Female,30,Bachelor degree,England,both,metadata,2,2,2,2,3,2,0.2,0.0435194139889,4,2
+Female,30,Bachelor degree,England,both,metadata,1,1,2,2,2,4,0.2,0.0262431940541,4,2
+Female,30,Bachelor degree,England,both,metadata,1,2,1,5,5,1,0.370790811899,0.166666666667,4,2
+Female,30,Bachelor degree,England,both,metadata,1,1,3,2,2,3,0.2,0.153093108924,4,2
+Female,30,Bachelor degree,England,both,metadata,1,1,3,2,2,4,0.353553390593,0.0,4,2
+Female,30,Bachelor degree,England,both,metadata,1,2,1,5,5,1,0.2,0.0321412173267,4,2
+Female,30,Bachelor degree,England,both,metadata,2,2,2,4,4,1,0.0695349490159,0.0402911482013,4,2
+Female,40,High school graduate,England,both,metadata,2,2,1,5,5,1,0.2,0.0,7,7
+Female,40,High school graduate,England,both,metadata,2,2,2,4,4,3,0.4,0.0,7,7
+Female,40,High school graduate,England,both,metadata,2,2,2,4,5,1,0.2,0.0,7,7
+Female,40,High school graduate,England,both,metadata,2,2,2,4,4,2,0.4,0.0987761547734,7,7
+Female,40,High school graduate,England,both,metadata,2,2,2,5,5,1,0.4,0.0,7,7
+Female,40,High school graduate,England,both,metadata,2,2,2,4,4,2,0.4,0.0,7,7
+Female,42,High school graduate,Wales,both,metadata,2,2,2,4,4,2,0.444444444444,0.370790811899,6,3
+Female,42,High school graduate,Wales,both,metadata,2,1,4,2,2,4,0.2,0.0,6,3
+Female,42,High school graduate,Wales,both,metadata,2,2,2,5,4,2,0.2,0.0,6,3
+Female,42,High school graduate,Wales,both,metadata,2,1,4,2,2,4,0.472165526976,0.0,6,3
+Female,42,High school graduate,Wales,both,metadata,1,1,5,1,1,5,0.4,0.0,6,3
+Female,42,High school graduate,Wales,both,metadata,1,2,1,5,5,1,0.35830498571,0.0,6,3
+Female,59,High school graduate,Wales,both,metadata,1,1,2,2,2,4,0.375,0.0,6,6
+Female,59,High school graduate,Wales,both,metadata,1,1,4,1,3,4,0.2,0.0,6,6
+Female,59,High school graduate,Wales,both,metadata,2,1,4,1,2,4,0.2,0.103074011485,6,6
+Female,59,High school graduate,Wales,both,metadata,1,2,3,2,4,3,0.5,0.0,6,6
+Female,59,High school graduate,Wales,both,metadata,2,2,3,2,4,3,0.077151674981,0.111332656863,6,6
+Female,59,High school graduate,Wales,both,metadata,2,1,3,2,4,3,0.433012701892,0.0,6,6
+Male,32,High school graduate,England,likeOnly,metadata,1,1,4,2,3,4,0.2,-1.0,9,9
+Male,32,High school graduate,England,likeOnly,metadata,1,1,4,2,3,4,0.374937694956,-1.0,9,9
+Male,32,High school graduate,England,likeOnly,metadata,1,1,4,2,3,4,0.487979331149,-1.0,9,9
+Male,32,High school graduate,England,likeOnly,metadata,1,1,4,2,3,4,0.487979331149,-1.0,9,9
+Male,32,High school graduate,England,likeOnly,metadata,1,1,4,2,3,4,0.445228459524,-1.0,9,9
+Male,32,High school graduate,England,likeOnly,metadata,1,1,4,2,3,4,0.2,-1.0,9,9
+Male,23,Bachelor degree,England,likeOnly,metadata,1,1,4,4,4,4,0.5,-1.0,2,3
+Male,23,Bachelor degree,England,likeOnly,metadata,2,2,2,2,2,2,0.5,-1.0,2,3
+Male,23,Bachelor degree,England,likeOnly,metadata,1,1,3,4,3,4,0.5,-1.0,2,3
+Male,23,Bachelor degree,England,likeOnly,metadata,2,2,2,2,2,2,0.5,-1.0,2,3
+Male,23,Bachelor degree,England,likeOnly,metadata,2,2,2,3,2,2,0.0,-1.0,2,3
+Male,23,Bachelor degree,England,likeOnly,metadata,2,2,2,2,2,2,0.2,-1.0,2,3
+Female,45,High school graduate,England,both,metadata,2,2,1,5,4,1,0.2,0.0833333333333,4,5
+Female,45,High school graduate,England,both,metadata,1,2,3,3,2,3,0.2,0.0721687836487,4,5
+Female,45,High school graduate,England,both,metadata,2,1,4,3,2,4,0.4,0.0833333333333,4,5
+Female,45,High school graduate,England,both,metadata,2,2,3,3,2,4,0.4,0.0721687836487,4,5
+Female,45,High school graduate,England,both,metadata,2,2,1,5,2,4,0.2,0.0883883476483,4,5
+Female,45,High school graduate,England,both,metadata,2,2,3,3,2,4,0.4,0.155502116982,4,5
+Male,56,Some college,England,both,metadata,2,2,2,4,3,2,0.4,0.0,6,8
+Male,56,Some college,England,both,metadata,1,1,4,2,2,4,0.2,0.0,6,8
+Male,56,Some college,England,both,metadata,2,1,5,2,3,4,0.4,0.0,6,8
+Male,38,Bachelor degree,England,both,metadata,2,1,4,1,3,3,0.255893973707,0.205968419269,3,4
+Male,38,Bachelor degree,England,both,metadata,2,2,1,5,4,1,0.255893973707,0.0138708396429,3,4
+Male,38,Bachelor degree,England,both,metadata,2,2,1,4,1,1,0.125920738411,0.0308166775681,3,4
+Male,38,Bachelor degree,England,both,metadata,2,2,1,4,2,2,0.255893973707,0.026560635763,3,4
+Male,38,Bachelor degree,England,both,metadata,2,2,3,2,3,3,0.134113296423,0.0238704958013,3,4
+Male,38,Bachelor degree,England,both,metadata,2,2,1,4,3,3,0.2,0.0,3,4
+Male,38,Bachelor degree,England,both,metadata,2,2,2,4,3,3,0.122435944955,0.0377425678048,3,4
+Male,49,Master degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0,4,5
+Male,49,Master degree,England,both,metadata,1,2,2,4,3,2,0.2,0.333333333333333,4,5
+Male,49,Master degree,England,both,metadata,2,2,1,5,5,1,0.2,0.111803398874989,4,5
+Male,49,Master degree,England,both,metadata,1,1,4,2,3,4,0.4,0.0,4,5
+Female,33,Master degree,Wales,likeOnly,metadata,2,2,1,5,5,1,0.5,-1.0,5,7
+Female,33,Master degree,Wales,likeOnly,metadata,2,2,3,3,3,3,0.0,-1.0,5,7
+Female,33,Master degree,Wales,likeOnly,metadata,2,1,5,1,2,4,0.4,-1.0,5,7
+Female,33,Master degree,Wales,likeOnly,metadata,2,2,3,3,3,3,0.408248290464,-1.0,5,7
+Female,33,Master degree,Wales,likeOnly,metadata,2,1,3,3,3,3,0.2,-1.0,5,7
+Female,33,Master degree,Wales,likeOnly,metadata,2,1,3,3,3,3,0.4,-1.0,5,7
+Female,28,Some college,England,both,metadata,2,1,5,1,2,5,1.2,0.0,4,4
+Female,28,Some college,England,both,metadata,2,1,4,2,2,4,0.2,0.047013877981,4,4
+Female,28,Some college,England,both,metadata,2,1,4,2,3,4,0.4,0.111111111111,4,4
+Female,28,Some college,England,both,metadata,1,2,2,4,4,2,0.2,0.125,4,4
+Female,28,Some college,England,both,metadata,2,1,4,2,2,4,0.4,0.090108574989,4,4
+Female,28,Some college,England,both,metadata,1,1,4,2,2,4,1.2,0.0,4,4
+Female,28,Some college,England,both,metadata,2,2,1,5,5,1,0.408248290463863,0.222222222222,4,4
+Female,28,Some college,England,both,metadata,2,1,3,3,4,3,0.2,0.0481125224325,4,4
+Female,28,Some college,England,both,metadata,2,1,4,2,2,4,0.2,0.105409255339,4,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,2,1,5,5,1,0.0,0.224870153092,3,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,2,1,5,5,1,0.5,0.227062072616,3,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,1,4,2,3,4,0.4,0.0,3,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,2,1,5,5,1,0.0,0.333333333333,3,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,2,3,3,3,3,0.4,0.0,3,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,1,3,2,4,3,1.0,0.0,3,4
+Female,40,Master degree,Northern Ireland,both,metadata,2,1,4,2,4,3,0.338061701891407,0.0456435464588,3,4
+Female,47,High school graduate,Wales,both,metadata,2,1,3,3,3,3,0.2,0.0,3,3
+Female,47,High school graduate,Wales,both,metadata,1,1,4,2,2,5,0.2,0.0,3,3
+Female,47,High school graduate,Wales,both,metadata,2,2,2,4,4,2,0.0,0.143365496944,3,3
+Female,47,High school graduate,Wales,both,metadata,2,2,2,4,4,1,0.333333333333333,0.262891711532,3,3
+Female,47,High school graduate,Wales,both,metadata,1,1,2,1,1,5,1.2,0.0,3,3
+Female,47,High school graduate,Wales,both,metadata,2,1,4,2,4,4,0.2,0.0430331482912,3,3
+Female,24,Some college,England,both,metadata,1,1,3,2,2,4,0.454124145232,0.0,5,6
+Female,24,Some college,England,both,metadata,2,1,3,3,2,4,0.454124145232,0.0,5,6
+Female,24,Some college,England,both,metadata,1,1,3,2,2,4,0.2,0.0,5,6
+Female,24,Some college,England,both,metadata,1,2,2,4,3,2,0.454124145232,0.0,5,6
+Female,24,Some college,England,both,metadata,1,1,3,2,2,4,0.4,0.234708048411,5,6
+Female,24,Some college,England,both,metadata,2,2,3,4,4,3,0.2,0.0,5,6
+Female,52,Bachelor degree,England,both,metadata,2,1,3,3,2,4,0.0188712839024,0.0,5,7
+Female,52,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.419326467764,0.408248290464,5,7
+Female,52,Bachelor degree,England,both,metadata,2,1,3,3,4,2,0.419326467764,0.408248290464,5,7
+Female,52,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.2,0.0,5,7
+Female,52,Bachelor degree,England,both,metadata,1,2,2,4,2,4,0.2,0.0257172249937,5,7
+Female,50,Bachelor degree,Scotland,both,metadata,1,1,4,2,2,4,0.4,0.0436008001072,4,4
+Female,50,Bachelor degree,Scotland,both,metadata,2,2,2,4,3,3,0.4,0.0515736292818,4,4
+Female,50,Bachelor degree,Scotland,both,metadata,2,2,2,4,3,3,0.2,0.0551198189805,4,4
+Female,50,Bachelor degree,Scotland,both,metadata,2,1,3,2,3,4,0.4,0.0458333333333,4,4
+Female,50,Bachelor degree,Scotland,both,metadata,2,2,3,3,3,3,0.4,0.0,4,4
+Female,50,Bachelor degree,Scotland,both,metadata,1,2,2,3,4,3,0.2,0.0551198189805,4,4
+Male,55,Bachelor degree,England,both,metadata,2,1,5,1,1,5,0.116811285688,0.0909090909090909,4,3
+Male,55,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.363835450315,0.333333333333333,4,3
+Male,55,Bachelor degree,England,both,metadata,1,1,5,1,1,5,0.352062072616,0.0,4,3
+Male,55,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.363835450315,0.333333333333333,4,3
+Male,55,Bachelor degree,England,both,metadata,1,1,5,1,1,5,0.152885523668,0.0909090909090909,4,3
+Male,55,Bachelor degree,England,both,metadata,2,1,5,1,5,5,0.129139735302,0.100503781525921,4,3
+Male,55,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.2,0.0,4,3
+Male,55,Bachelor degree,England,both,metadata,2,1,5,1,5,5,0.107758424388,0.0674199862463242,4,3
+Female,29,Bachelor degree,England,both,metadata,2,1,4,1,4,3,0.2,0.0269484027818,6,9
+Female,29,Bachelor degree,England,both,metadata,1,1,1,1,1,4,0.552062072616,0.166666666667,6,9
+Female,29,Bachelor degree,England,both,metadata,2,1,5,2,4,4,0.4,0.0,6,9
+Female,29,Bachelor degree,England,both,metadata,1,1,2,1,1,5,0.2,0.019641855033,6,9
+Male,40,Master degree,England,both,metadata,1,1,4,2,3,4,0.247619047619,0.0,6,4
+Male,40,Master degree,England,both,metadata,2,1,4,2,2,4,0.333333333333,0.0,6,4
+Male,40,Master degree,England,both,metadata,2,2,1,5,5,1,0.246004370623,0.0,6,4
+Male,40,Master degree,England,both,metadata,1,2,3,3,3,3,0.2,0.0,6,4
+Female,32,Master degree,England,both,metadata,2,1,4,2,3,4,0.2,0.0,6,6
+Female,32,Master degree,England,both,metadata,2,1,4,2,2,4,0.2,0.204124145232,6,6
+Female,32,Master degree,England,both,metadata,2,2,2,4,2,3,0.2,0.166666666667,6,6
+Female,32,Master degree,England,both,metadata,2,1,4,2,3,4,0.4,0.163575837491,6,6
+Female,32,Master degree,England,both,metadata,2,2,2,4,4,2,0.4,0.123812739297,6,6
+Female,32,Master degree,England,both,metadata,2,1,4,2,2,4,0.4,0.0,6,6
+Female,33,Master degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0527046276695,7,6
+Female,33,Master degree,England,both,metadata,2,2,3,4,3,3,0.2,0.0416666666667,7,6
+Female,33,Master degree,England,both,metadata,1,2,2,4,4,2,0.2,0.131558702896,7,6
+Female,33,Master degree,England,both,metadata,1,1,4,2,1,5,0.4,0.0,7,6
+Female,33,Master degree,England,both,metadata,2,1,4,2,2,4,0.4,0.0,7,6
+Female,33,Master degree,England,both,metadata,1,1,4,2,2,4,0.2,0.0,7,6
+Female,33,Master degree,England,both,metadata,2,2,3,3,2,4,0.2,0.0559016994375,7,6
+Female,33,Master degree,England,both,metadata,2,1,4,2,2,4,0.4,0.05,7,6
+Male,40,Advanced graduate or Ph.D.,England,both,metadata,2,2,1,5,5,1,0.413860541266,0.136082763488,3,3
+Male,40,Advanced graduate or Ph.D.,England,both,metadata,2,1,4,2,2,3,0.413860541266,0.272165526976,3,3
+Male,40,Advanced graduate or Ph.D.,England,both,metadata,1,2,2,4,5,1,0.2,0.0,3,3
+Female,42,Bachelor degree,England,both,metadata,2,2,4,2,4,3,0.202151674981,0.0,5,5
+Female,42,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.13814646444,0.0,5,5
+Female,42,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.166666666667,0.0,5,5
+Female,42,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.394337567297,0.0,5,5
+Female,42,Bachelor degree,England,both,metadata,2,1,4,2,3,4,0.394337567297,0.0,5,5
+Female,25,Some college,England,both,metadata,1,1,3,1,3,5,0.4,0.0,6,6
+Female,25,Some college,England,both,metadata,2,2,3,3,3,3,0.4,0.0,6,6
+Female,25,Some college,England,both,metadata,2,1,3,1,3,5,0.2,0.0589255650989,6,6
+Female,25,Some college,England,both,metadata,1,1,3,2,3,4,0.021059658923,0.0138092044167,6,6
+Female,25,Some college,England,both,metadata,1,1,3,1,3,5,0.2,0.0,6,6
+Male,45,High school graduate,England,both,metadata,1,1,4,1,3,4,0.408248290463863,0.148316324759,5,4
+Male,45,High school graduate,England,both,metadata,2,2,1,5,4,1,0.2,0.141421356237,5,4
+Male,45,High school graduate,England,both,metadata,2,2,4,4,4,2,0.4,0.124401693586,5,4
+Male,45,High school graduate,England,both,metadata,2,1,4,1,2,4,0.2,0.138327663809,5,4
+Male,45,High school graduate,England,both,metadata,2,2,1,4,4,1,0.4,0.0966980322572,5,4
+Male,45,High school graduate,England,both,metadata,2,2,1,5,5,1,0.408248290463863,0.214982991426,5,4
+Male,45,High school graduate,England,both,metadata,2,1,4,2,3,4,0.2,0.221586000515,5,4
+Male,45,High school graduate,England,both,metadata,2,2,1,4,4,1,0.2,0.0961537316607,5,4
+Male,45,High school graduate,England,both,metadata,2,2,1,4,4,1,0.2,0.229965982852,5,4
+Male,69,High school graduate,England,both,metadata,2,1,4,2,3,4,0.4,0.0,8,5
+Male,69,High school graduate,England,both,metadata,2,2,2,4,4,2,0.2,0.0,8,5
+Male,69,High school graduate,England,both,metadata,1,1,5,1,1,5,0.4,0.0,8,5
+Male,69,High school graduate,England,both,metadata,2,2,2,4,4,1,0.4,0.465451829891,8,5
+Male,69,High school graduate,England,both,metadata,2,2,2,4,4,2,0.4,0.0,8,5
+Male,74,Bachelor degree,England,likeOnly,metadata,1,1,5,1,2,5,0.2,-1.0,8,9
+Male,74,Bachelor degree,England,likeOnly,metadata,2,1,5,1,4,4,0.2,-1.0,8,9
+Male,74,Bachelor degree,England,likeOnly,metadata,1,2,3,3,4,3,0.2,-1.0,8,9
+Male,74,Bachelor degree,England,likeOnly,metadata,1,2,3,3,4,2,0.2,-1.0,8,9
+Male,74,Bachelor degree,England,likeOnly,metadata,1,1,4,2,3,3,0.0,-1.0,8,9
+Male,74,Bachelor degree,England,likeOnly,metadata,1,1,5,1,4,5,0.2,-1.0,8,9
+Female,57,Bachelor degree,England,both,metadata,1,1,5,1,1,5,0.2,0.0245145168923,8,5
+Female,57,Bachelor degree,England,both,metadata,2,1,4,2,4,4,0.2,0.333333333333,8,5
+Female,57,Bachelor degree,England,both,metadata,1,1,4,3,4,3,0.2,0.0441941738242,8,5
+Female,57,Bachelor degree,England,both,metadata,2,1,4,2,5,4,0.4,0.0303169531295,8,5
+Female,57,Bachelor degree,England,both,metadata,1,2,3,4,2,2,0.2,0.0,8,5
+Female,54,Some college,England,both,metadata,1,1,4,3,3,3,0.4,0.0,4,4
+Female,54,Some college,England,both,metadata,2,2,2,2,2,2,0.2,0.0,4,4
+Female,54,Some college,England,both,metadata,1,1,4,2,3,4,0.2,0.0,4,4
+Female,54,Some college,England,both,metadata,2,2,3,3,3,3,0.4,0.0,4,4
+Female,54,Some college,England,both,metadata,2,2,2,4,3,3,0.25,0.0,4,4
+Female,54,Some college,England,both,metadata,2,2,1,5,4,1,0.4,0.0,4,4
+Female,35,Some college,England,both,metadata,2,2,2,4,3,3,0.4,0.0,7,8
+Female,35,Some college,England,both,metadata,2,2,2,5,4,2,0.136082763488,0.0,7,8
+Female,35,Some college,England,both,metadata,2,2,2,4,4,2,0.4,0.0,7,8
+Female,35,Some college,England,both,metadata,2,2,1,5,4,1,0.108079402686,0.086066296582387,7,8
+Female,35,Some college,England,both,metadata,2,2,3,3,3,3,0.4,0.0,7,8
+Female,35,Some college,England,both,metadata,2,2,2,4,2,2,0.195195475676,0.149071198499986,7,8
+Male,34,Master degree,England,likeOnly,metadata,2,1,4,2,1,4,0.2,-1.0,3,4
+Male,34,Master degree,England,likeOnly,metadata,1,1,1,1,1,4,0.333333333333333,-1.0,3,4
+Male,34,Master degree,England,likeOnly,metadata,2,2,1,5,4,1,0.666666666666667,-1.0,3,4
+Male,34,Master degree,England,likeOnly,metadata,2,1,5,1,2,4,0.0,-1.0,3,4
+Male,34,Master degree,England,likeOnly,metadata,2,2,2,4,3,2,0.0,-1.0,3,4
+Male,34,Master degree,England,likeOnly,metadata,2,2,2,4,3,2,0.516397779494322,-1.0,3,4
+Male,30,Bachelor degree,England,both,metadata,2,2,3,4,4,3,0.2,0.166666666667,5,3
+Male,30,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.4,0.077151674981,5,3
+Male,30,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.2,0.166666666667,5,3
+Male,30,Bachelor degree,England,both,metadata,2,1,4,2,4,3,0.2,0.166666666667,5,3
+Male,30,Bachelor degree,England,both,metadata,1,1,4,2,3,4,0.4,0.0,5,3
+Male,30,Bachelor degree,England,both,metadata,2,2,1,4,5,2,0.469416096821,0.204124145232,5,3
+Male,30,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0845154254729,5,3
+Male,25,Master degree,England,likeOnly,metadata,1,2,2,2,3,3,0.280429030973,-1.0,2,3
+Male,25,Master degree,England,likeOnly,metadata,2,2,1,1,1,1,0.25,-1.0,2,3
+Male,25,Master degree,England,likeOnly,metadata,2,2,3,3,3,3,0.25,-1.0,2,3
+Male,25,Master degree,England,likeOnly,metadata,2,1,2,3,3,3,0.0416666666667,-1.0,2,3
+Male,25,Master degree,England,likeOnly,metadata,1,1,3,3,3,3,0.25,-1.0,2,3
+Male,25,Master degree,England,likeOnly,metadata,1,1,2,3,3,4,0.204124145232,-1.0,2,3
+Female,25,Bachelor degree,England,both,metadata,1,2,2,4,4,1,0.0,0.353553390593,3,2
+Female,25,Bachelor degree,England,both,metadata,1,1,4,2,3,4,0.408248290463863,0.311004233964,3,2
+Female,25,Bachelor degree,England,both,metadata,1,1,4,2,3,4,0.5,0.370790811899,3,2
+Female,25,Bachelor degree,England,both,metadata,1,1,4,2,4,4,0.2,0.0953462589246,3,2
+Female,25,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0,3,2
+Female,25,Bachelor degree,England,both,metadata,2,2,3,4,4,2,0.2,0.0,3,2
+Female,25,Bachelor degree,England,both,metadata,1,2,2,4,3,3,0.408248290463863,0.455341801261,3,2
+Female,50,Bachelor degree,Scotland,both,metadata,2,1,4,2,2,4,0.2,0.0,4,5
+Female,50,Bachelor degree,Scotland,both,metadata,2,2,2,4,3,3,0.4,0.101800211385,4,5
+Female,50,Bachelor degree,Scotland,both,metadata,1,1,4,2,3,3,0.4,0.0,4,5
+Female,50,Bachelor degree,Scotland,both,metadata,2,2,2,4,3,3,0.2,0.0831195245332,4,5
+Female,50,Bachelor degree,Scotland,both,metadata,2,2,3,2,3,3,0.4,0.0,4,5
+Female,50,Bachelor degree,Scotland,both,metadata,1,1,4,2,3,3,0.4,0.0,4,5
+Female,53,Some college,England,both,metadata,1,2,3,3,4,2,0.109469037868,0.054554472559,4,2
+Female,53,Some college,England,both,metadata,2,2,2,4,5,2,0.541611795053,0.125,4,2
+Female,53,Some college,England,both,metadata,2,2,2,4,3,3,0.4,0.0,4,2
+Female,53,Some college,England,both,metadata,2,2,2,4,4,2,0.416611795053,0.125,4,2
+Female,53,Some college,England,both,metadata,2,1,4,3,3,3,0.0721687836487,0.0,4,2
+Female,53,Some college,England,both,metadata,2,1,4,2,3,3,0.48116151749,0.125,4,2
+Male,63,High school graduate,England,both,metadata,1,1,3,1,1,5,0.2,0.10471440063,5,2
+Male,63,High school graduate,England,both,metadata,1,2,2,4,3,2,0.2,0.0,5,2
+Male,63,High school graduate,England,both,metadata,1,1,4,3,3,4,0.4,0.0,5,2
+Male,63,High school graduate,England,both,metadata,2,2,2,4,3,1,0.269337567297,0.238835450315,5,2
+Female,61,High school graduate,England,both,metadata,2,2,1,5,5,1,0.4,0.0,5,4
+Female,61,High school graduate,England,both,metadata,1,1,3,1,2,5,0.0892689309429,0.0,5,4
+Female,61,High school graduate,England,both,metadata,2,1,3,2,3,4,0.463388347648,0.0,5,4
+Female,61,High school graduate,England,both,metadata,2,2,2,4,4,2,0.0,0.2,5,4
+Male,28,Advanced graduate or Ph.D.,Wales,both,metadata,2,2,3,3,4,2,0.4,0.0629603692054,4,3
+Male,28,Advanced graduate or Ph.D.,Wales,both,metadata,2,2,3,3,3,3,1.2,0.166666666667,4,3
+Male,28,Advanced graduate or Ph.D.,Wales,both,metadata,1,2,3,3,3,3,0.2,0.0862262059303,4,3
+Male,28,Advanced graduate or Ph.D.,Wales,both,metadata,2,2,1,5,5,1,0.4,0.00214558683968,4,3
+Male,28,Advanced graduate or Ph.D.,Wales,both,metadata,2,2,1,5,5,1,0.288675134594813,0.138888888889,4,3
+Female,43,Master degree,Scotland,both,metadata,2,1,4,2,2,3,0.4,0.103484069061,3,7
+Female,43,Master degree,Scotland,both,metadata,2,1,4,2,2,4,0.2,0.0,3,7
+Female,43,Master degree,Scotland,both,metadata,2,1,5,1,3,4,0.4,0.0504950552728,3,7
+Female,43,Master degree,Scotland,both,metadata,2,1,4,2,3,4,0.4,0.103484069061,3,7
+Female,43,Master degree,Scotland,both,metadata,2,2,2,5,5,2,0.2,0.0818113399437,3,7
+Female,43,Master degree,Scotland,both,metadata,2,1,5,1,3,5,0.0,0.032075014955,3,7
+Female,43,Master degree,Scotland,both,metadata,2,1,4,2,3,4,0.4,0.0731742869778,3,7
+Male,29,Master degree,England,both,metadata,1,1,1,1,2,4,0.0,0.352062072616,6,5
+Male,29,Master degree,England,both,metadata,2,2,2,3,2,4,0.2,0.0,6,5
+Male,29,Master degree,England,both,metadata,1,2,2,4,4,3,0.574914957131,0.0645497224368,6,5
+Male,29,Master degree,England,both,metadata,1,1,3,2,5,2,0.454124145232,0.0883883476483,6,5
+Male,29,Master degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0923446470673,6,5
+Male,29,Master degree,England,both,metadata,1,1,4,2,5,3,0.537457478565,0.0645497224368,6,5
+Male,29,Master degree,England,both,metadata,2,2,3,3,2,2,0.2,0.0883883476483,6,5
+Male,29,Master degree,England,both,metadata,2,2,3,3,3,2,0.2,0.186710207961,6,5
+Male,52,Bachelor degree,England,both,metadata,2,2,2,4,5,1,0.139432403777,0.116949706914,5,5
+Male,52,Bachelor degree,England,both,metadata,2,1,3,2,1,5,0.2,0.0,5,5
+Male,52,Bachelor degree,England,both,metadata,2,1,4,2,3,4,0.4,0.0,5,5
+Male,52,Bachelor degree,England,both,metadata,2,1,4,2,4,4,0.4,0.0,5,5
+Male,52,Bachelor degree,England,both,metadata,2,2,2,4,4,1,0.4,0.0835601696795,5,5
+Male,52,Bachelor degree,England,both,metadata,2,2,3,4,4,2,0.2,0.0,5,5
+Male,52,Bachelor degree,England,both,metadata,2,1,3,2,2,4,0.2,0.0,5,5
+Male,34,Bachelor degree,England,likeOnly,metadata,1,1,2,1,3,5,0.482131746106,-1.0,7,9
+Male,34,Bachelor degree,England,likeOnly,metadata,1,1,5,1,3,5,0.595555745824,-1.0,7,9
+Male,34,Bachelor degree,England,likeOnly,metadata,2,2,2,2,3,3,0.461281209649,-1.0,7,9
+Male,34,Bachelor degree,England,likeOnly,metadata,2,1,4,1,4,4,0.2,-1.0,7,9
+Male,34,Bachelor degree,England,likeOnly,metadata,2,2,2,4,2,2,0.398985665657,-1.0,7,9
+Male,34,Bachelor degree,England,likeOnly,metadata,2,2,2,4,4,2,0.07453559925,-1.0,7,9
+Male,39,Bachelor degree,Wales,both,metadata,1,1,4,2,2,4,0.4,0.0,6,5
+Male,39,Bachelor degree,Wales,both,metadata,2,1,4,2,2,4,0.2,0.0,6,5
+Male,39,Bachelor degree,Wales,both,metadata,2,2,3,4,4,2,0.4,0.0,6,5
+Male,39,Bachelor degree,Wales,both,metadata,2,1,4,2,2,4,0.4,0.0643684983936,6,5
+Male,39,Bachelor degree,Wales,both,metadata,2,1,4,2,3,4,0.4,0.0674088957621,6,5
+Male,39,Bachelor degree,Wales,both,metadata,2,1,4,2,4,4,0.2,0.0829314894048,6,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,2,4,2,3,3,0.4,0.0,7,4
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,2,2,4,3,2,0.4,0.208924379403,7,4
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,2,2,4,3,2,0.4,0.197042194967,7,4
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,1,1,4,2,3,4,0.2,0.0,7,4
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.4,0.0,4,5
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.2,0.00781345384897,4,5
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.0683167562111,0.0640352415431,4,5
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.122208728712,0.114549722437,4,5
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.408248290464,0.370790811899,4,5
+Female,27,Some college,England,both,metadata,2,1,4,2,4,4,0.312222851899,0.106613851707,4,5
+Female,29,Master degree,England,both,metadata,2,2,2,4,4,2,0.0,0.0596688479084,3,3
+Female,29,Master degree,England,both,metadata,1,1,3,2,2,4,1.2,0.0504106993782,3,3
+Female,29,Master degree,England,both,metadata,1,1,3,2,4,4,1.2,0.0382417429498,3,3
+Female,29,Master degree,England,both,metadata,2,2,2,4,4,2,1.2,0.0439390006121,3,3
+Female,29,Master degree,England,both,metadata,1,1,3,2,3,4,0.2,0.0,3,3
+Female,29,Master degree,England,both,metadata,2,2,2,4,4,3,0.2,0.0413658473379,3,3
+Female,29,Master degree,England,both,metadata,2,2,3,2,4,2,0.2,0.0439390006121,3,3
+Female,29,Master degree,England,both,metadata,2,2,3,3,4,3,0.0,0.0558150963842,3,3
+Female,45,Bachelor degree,England,both,metadata,1,2,1,5,5,1,0.221034343105,0.0,7,3
+Female,45,Bachelor degree,England,both,metadata,1,1,3,3,3,3,0.0,0.408248290463863,7,3
+Female,45,Bachelor degree,England,both,metadata,2,1,4,1,1,3,0.270710678119,0.0,7,3
+Female,45,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.0816496580928,0.0479463301485384,7,3
+Female,45,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.0409913965433,0.0,7,3
+Female,45,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.0,0.408248290463863,7,3
+Female,45,Bachelor degree,England,both,metadata,2,1,4,2,4,4,0.0138342892773,0.0,7,3
+Male,34,Bachelor degree,England,both,metadata,1,1,4,2,1,4,0.537457478565,0.272165526976,4,3
+Male,34,Bachelor degree,England,both,metadata,2,2,3,2,4,2,0.4,0.166666666667,4,3
+Male,34,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.4,0.0912754036318,4,3
+Male,34,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.136082763488,4,3
+Male,34,Bachelor degree,England,both,metadata,1,1,4,1,1,4,0.2,0.136082763488,4,3
+Male,34,Bachelor degree,England,both,metadata,2,1,4,2,2,3,0.4,0.0,4,3
+Female,67,Bachelor degree,England,both,metadata,2,1,4,2,3,4,1.4,0.0,5,2
+Female,67,Bachelor degree,England,both,metadata,2,2,3,4,3,2,0.2,0.16288585481,5,2
+Female,67,Bachelor degree,England,both,metadata,2,2,1,4,3,2,0.2,0.0350490141418,5,2
+Female,67,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.4,0.0,5,2
+Female,67,Bachelor degree,England,both,metadata,1,2,2,4,3,2,0.4,0.213299316186,5,2
+Female,67,Bachelor degree,England,both,metadata,2,1,5,2,2,4,0.4,0.0,5,2
+Female,67,Bachelor degree,England,both,metadata,1,1,3,2,1,4,0.2,0.14472135955,5,2
+Female,53,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.2,0.0,6,6
+Female,53,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.2,0.0,6,6
+Female,53,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.4,0.0,6,6
+Female,53,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.408248290463863,6,6
+Female,53,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.4,0.408248290463863,6,6
+Female,53,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.2,0.0,6,6
+Female,32,Some college,England,both,metadata,2,1,3,2,2,4,0.4,0.0,3,3
+Female,32,Some college,England,both,metadata,1,2,2,4,2,2,0.4,0.0,3,3
+Female,32,Some college,England,both,metadata,1,2,3,3,2,2,0.2,0.0219317231653,3,3
+Female,32,Some college,England,both,metadata,2,2,2,4,3,2,0.404124145232,0.333333333333,3,3
+Female,32,Some college,England,both,metadata,1,2,2,3,4,1,0.2,0.0445435403187,3,3
+Female,31,Some college,England,both,metadata,2,2,3,4,4,2,0.4,0.0385758374905,5,5
+Female,31,Some college,England,both,metadata,1,1,4,2,4,3,0.408248290464,0.204124145232,5,5
+Female,31,Some college,England,both,metadata,2,2,2,4,4,2,0.0790569415042,0.0,5,5
+Female,31,Some college,England,both,metadata,2,1,4,2,3,4,0.4,0.0400320384513,5,5
+Female,31,Some college,England,both,metadata,2,1,4,1,4,4,0.00917411107799,0.0,5,5
+Male,60,High school graduate,England,both,metadata,2,2,2,4,5,1,0.4,0.0,6,5
+Male,60,High school graduate,England,both,metadata,1,1,3,2,1,5,0.2,0.0,6,5
+Male,60,High school graduate,England,both,metadata,2,2,2,3,4,2,0.4,0.0753744063704,6,5
+Male,60,High school graduate,England,both,metadata,1,1,3,3,2,4,0.2,0.07453559925,6,5
+Male,60,High school graduate,England,both,metadata,1,2,3,3,3,3,0.4,0.0,6,5
+Male,60,High school graduate,England,both,metadata,1,1,4,2,2,4,0.2,0.0,6,5
+Male,29,Bachelor degree,England,both,metadata,2,2,2,2,2,2,0.2,0.017010345436,5,4
+Male,29,Bachelor degree,England,both,metadata,2,2,2,3,2,2,0.2,0.0257172249937,5,4
+Male,29,Bachelor degree,England,both,metadata,2,1,3,3,3,3,0.4,0.0,5,4
+Male,29,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.4,0.0,5,4
+Male,29,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.4,0.0205152484966,5,4
+Male,29,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.2,0.0240562612162,5,4
+Male,29,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.4,0.0175682092232,5,4
+Male,52,High school graduate,England,both,metadata,2,1,4,2,2,4,0.2,0.0,4,4
+Male,52,High school graduate,England,both,metadata,1,1,5,1,1,4,0.2,0.0,4,4
+Male,52,High school graduate,England,both,metadata,1,2,2,4,2,4,0.2,0.0877058019307029,4,4
+Male,52,High school graduate,England,both,metadata,1,1,4,1,4,4,0.2,0.0,4,4
+Male,52,High school graduate,England,both,metadata,2,2,1,5,4,2,0.2,0.0,4,4
+Male,52,High school graduate,England,both,metadata,1,1,5,2,2,4,0.2,0.0,4,4
+Male,52,High school graduate,England,both,metadata,2,2,1,5,4,2,0.2,0.0,4,4
+Male,49,Advanced graduate or Ph.D.,England,both,metadata,1,1,1,1,1,4,0.4,0.5,4,3
+Male,49,Advanced graduate or Ph.D.,England,both,metadata,2,2,2,4,4,2,0.579124145232,0.272165526976,4,3
+Male,49,Advanced graduate or Ph.D.,England,both,metadata,2,1,4,2,3,4,0.166666666667,0.032075014955,4,3
+Male,49,Advanced graduate or Ph.D.,England,both,metadata,2,2,2,4,2,2,0.144337567297,0.0430331482912,4,3
+Male,49,Advanced graduate or Ph.D.,England,both,metadata,2,2,2,4,4,2,0.144337567297,0.0304290309725,4,3
+Male,48,High school graduate,England,both,metadata,2,2,4,3,2,3,0.2,0.0816496580928,4,5
+Male,48,High school graduate,England,both,metadata,2,2,1,4,4,2,0.472165526976,0.0666666666667,4,5
+Male,48,High school graduate,England,both,metadata,2,2,1,5,2,2,0.2,0.0960313788029,4,5
+Male,48,High school graduate,England,both,metadata,2,2,1,4,2,2,0.2,0.114829129465,4,5
+Male,48,High school graduate,England,both,metadata,2,2,1,4,2,2,0.4,0.0803456159374,4,5
+Male,48,High school graduate,England,both,metadata,2,2,5,2,4,4,0.4,0.0803456159374,4,5
+Male,41,Some college,England,both,metadata,2,2,2,4,4,2,0.244948974278,0.0,6,3
+Male,41,Some college,England,both,metadata,2,2,1,5,4,1,0.4,0.0,6,3
+Male,41,Some college,England,both,metadata,2,2,3,2,3,2,0.2,0.146790812456,6,3
+Male,41,Some college,England,both,metadata,2,2,1,5,5,1,0.4,0.0,6,3
+Male,42,High school graduate,England,likeOnly,metadata,1,1,4,2,3,3,0.2,-1.0,7,7
+Male,42,High school graduate,England,likeOnly,metadata,1,1,5,2,3,3,0.4,-1.0,7,7
+Male,42,High school graduate,England,likeOnly,metadata,1,1,5,2,3,3,0.2,-1.0,7,7
+Male,42,High school graduate,England,likeOnly,metadata,2,2,2,4,3,3,0.4,-1.0,7,7
+Male,42,High school graduate,England,likeOnly,metadata,1,1,5,1,3,3,0.4,-1.0,7,7
+Male,42,High school graduate,England,likeOnly,metadata,2,2,1,4,3,3,0.4,-1.0,7,7
+Female,29,Some college,England,dislikeOnly,metadata,1,2,1,5,5,1,-1.0,0.574914957131,2,5
+Female,29,Some college,England,dislikeOnly,metadata,2,2,3,4,4,3,-1.0,0.0,2,5
+Female,29,Some college,England,dislikeOnly,metadata,1,1,3,1,1,5,-1.0,0.574914957131,2,5
+Female,29,Some college,England,dislikeOnly,metadata,1,1,4,2,4,3,-1.0,0.52022005726,2,5
+Female,29,Some college,England,dislikeOnly,metadata,2,2,1,5,5,1,-1.0,0.166666666667,2,5
+Female,29,Some college,England,dislikeOnly,metadata,1,2,2,4,3,4,-1.0,0.574914957131,2,5
+Male,46,Some college,England,both,metadata,2,2,2,4,4,2,0.2,0.166666666667,5,4
+Male,46,Some college,England,both,metadata,2,1,3,2,3,3,0.5,0.136082763488,5,4
+Male,46,Some college,England,both,metadata,1,1,4,2,3,3,0.4,0.0,5,4
+Male,46,Some college,England,both,metadata,1,2,3,3,4,3,0.2,0.277777777778,5,4
+Male,46,Some college,England,both,metadata,1,1,4,2,2,4,0.5,0.136082763488,5,4
+Male,43,Bachelor degree,England,both,metadata,2,2,1,5,4,2,0.2,0.0,6,5
+Male,43,Bachelor degree,England,both,metadata,1,2,2,4,4,2,0.2,0.133630620956,6,5
+Male,43,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0408248290464,6,5
+Male,51,Master degree,England,both,metadata,2,2,5,1,3,5,0.2,0.114060869604,8,9
+Male,51,Master degree,England,both,metadata,2,2,1,5,5,1,0.2,0.0,8,9
+Male,51,Master degree,England,both,metadata,2,2,4,2,3,4,0.2,0.0,8,9
+Male,51,Master degree,England,both,metadata,1,1,5,1,3,5,0.4,0.0,8,9
+Female,40,High school graduate,Scotland,both,metadata,1,1,1,1,4,5,0.0218217890236,0.0,7,9
+Female,40,High school graduate,Scotland,both,metadata,2,2,1,5,5,1,0.4,0.25,7,9
+Female,40,High school graduate,Scotland,both,metadata,2,2,1,5,5,1,0.0169030850946,0.0,7,9
+Female,40,High school graduate,Scotland,both,metadata,2,2,1,5,5,1,0.4,0.0,7,9
+Female,40,High school graduate,Scotland,both,metadata,2,1,5,1,3,4,0.2,0.0,7,9
+Female,40,High school graduate,Scotland,both,metadata,1,1,3,1,1,5,0.2,0.0,7,9
+Female,40,High school graduate,Scotland,both,metadata,2,2,1,5,5,1,0.2,0.0,7,9
+Female,40,High school graduate,Scotland,both,metadata,2,1,5,1,1,5,0.414982991426,0.408248290464,7,9
+Female,44,Master degree,England,likeOnly,metadata,2,2,2,4,4,2,0.2,-1.0,7,8
+Female,44,Master degree,England,likeOnly,metadata,2,1,4,2,3,4,0.447193874599,-1.0,7,8
+Female,44,Master degree,England,likeOnly,metadata,1,1,4,1,4,5,0.4,-1.0,7,8
+Female,44,Master degree,England,likeOnly,metadata,2,1,3,3,4,3,0.447193874599,-1.0,7,8
+Female,44,Master degree,England,likeOnly,metadata,2,1,4,3,2,3,0.435702260396,-1.0,7,8
+Female,44,Master degree,England,likeOnly,metadata,2,2,3,3,3,3,0.283333333333,-1.0,7,8
+Male,42,Some college,England,likeOnly,metadata,1,1,4,2,4,2,0.4,-1.0,7,5
+Male,42,Some college,England,likeOnly,metadata,2,2,5,5,5,1,0.4,-1.0,7,5
+Male,42,Some college,England,likeOnly,metadata,2,2,5,4,3,3,0.0,-1.0,7,5
+Male,42,Some college,England,likeOnly,metadata,1,2,5,4,3,3,0.120139676039,-1.0,7,5
+Male,42,Some college,England,likeOnly,metadata,2,1,5,2,3,3,0.4,-1.0,7,5
+Male,42,Some college,England,likeOnly,metadata,1,1,5,1,3,3,0.4,-1.0,7,5
+Female,48,Some college,Scotland,both,metadata,1,2,1,5,5,1,0.057735026919,0.0,5,5
+Female,48,Some college,Scotland,both,metadata,2,2,1,5,5,1,0.2,0.0,5,5
+Female,48,Some college,Scotland,both,metadata,2,2,1,5,5,1,0.4,0.0,5,5
+Female,48,Some college,Scotland,both,metadata,1,2,1,4,4,1,0.4,0.0,5,5
+Female,48,Some college,Scotland,both,metadata,2,2,1,5,5,1,0.4,0.0,5,5
+Female,33,Some college,Scotland,both,metadata,2,2,3,4,4,2,0.0,0.0,5,5
+Female,33,Some college,Scotland,both,metadata,2,2,3,4,4,3,0.2,0.0,5,5
+Female,33,Some college,Scotland,both,metadata,2,1,4,1,3,5,0.4,0.149071198499986,5,5
+Female,33,Some college,Scotland,both,metadata,2,1,3,2,3,3,0.0,0.0,5,5
+Female,33,Some college,Scotland,both,metadata,2,1,4,1,2,5,0.4,0.0,5,5
+Female,33,Some college,Scotland,both,metadata,1,1,3,1,2,5,0.2,0.111111111111111,5,5
+Male,68,High school graduate,England,both,metadata,1,1,5,1,3,5,0.2,0.0395284707521,5,5
+Male,68,High school graduate,England,both,metadata,2,2,1,5,5,1,0.2,0.0833333333333,5,5
+Male,68,High school graduate,England,both,metadata,1,1,3,1,3,5,0.4,0.144337567297,5,5
+Male,68,High school graduate,England,both,metadata,1,1,3,2,3,4,0.2,0.0395284707521,5,5
+Male,68,High school graduate,England,both,metadata,1,1,4,2,3,4,0.2,0.166666666667,5,5
+Female,46,Some college,England,likeOnly,metadata,2,1,4,2,3,3,0.466622769376,-1.0,7,6
+Female,46,Some college,England,likeOnly,metadata,2,1,5,1,4,4,0.518262547325,-1.0,7,6
+Female,46,Some college,England,likeOnly,metadata,1,1,5,1,2,4,0.4,-1.0,7,6
+Female,46,Some college,England,likeOnly,metadata,1,1,4,2,2,4,0.2894427191,-1.0,7,6
+Female,46,Some college,England,likeOnly,metadata,2,2,2,4,4,2,0.355273322754,-1.0,7,6
+Female,46,Some college,England,likeOnly,metadata,2,1,4,2,4,2,0.257735026919,-1.0,7,6
+Male,43,Bachelor degree,England,likeOnly,metadata,2,2,2,4,4,1,0.2,-1.0,5,4
+Male,43,Bachelor degree,England,likeOnly,metadata,2,2,1,5,5,1,0.4,-1.0,5,4
+Male,43,Bachelor degree,England,likeOnly,metadata,2,2,1,5,5,1,0.4,-1.0,5,4
+Male,43,Bachelor degree,England,likeOnly,metadata,2,2,2,4,4,2,0.333333333333,-1.0,5,4
+Male,43,Bachelor degree,England,likeOnly,metadata,2,2,1,5,5,1,0.333333333333,-1.0,5,4
+Male,43,Bachelor degree,England,likeOnly,metadata,2,1,4,2,2,4,0.0666666666667,-1.0,5,4
+Male,45,High school graduate,Scotland,both,metadata,1,1,5,1,1,5,1.2,0.0,3,4
+Male,45,High school graduate,Scotland,both,metadata,2,2,3,4,4,3,0.4,0.0876652645769,3,4
+Male,45,High school graduate,Scotland,both,metadata,2,2,2,5,3,3,0.0,0.211880463942,3,4
+Male,45,High school graduate,Scotland,both,metadata,2,1,3,3,4,3,0.4,0.0957197987904,3,4
+Male,45,High school graduate,Scotland,both,metadata,2,2,1,5,4,1,0.0,0.0,3,4
+Male,45,High school graduate,Scotland,both,metadata,2,1,4,3,3,3,0.2,0.0788660107918,3,4
+Male,36,Bachelor degree,Scotland,both,metadata,1,1,3,2,3,3,0.2,0.144337567297,7,7
+Male,36,Bachelor degree,Scotland,both,metadata,2,2,1,5,4,1,0.2,0.0,7,7
+Male,36,Bachelor degree,Scotland,both,metadata,2,2,3,4,4,2,0.4,0.166666666667,7,7
+Male,36,Bachelor degree,Scotland,both,metadata,2,2,3,3,3,3,0.2,0.0,7,7
+Male,36,Bachelor degree,Scotland,both,metadata,2,1,4,2,3,3,0.4,0.0723218684638,7,7
+Male,45,High school graduate,England,likeOnly,metadata,2,2,2,4,4,2,0.4,-1.0,6,5
+Male,45,High school graduate,England,likeOnly,metadata,2,2,1,5,5,1,0.125,-1.0,6,5
+Male,45,High school graduate,England,likeOnly,metadata,2,2,2,4,5,1,0.4,-1.0,6,5
+Male,45,High school graduate,England,likeOnly,metadata,2,1,4,2,3,4,0.4,-1.0,6,5
+Male,45,High school graduate,England,likeOnly,metadata,2,2,1,5,5,1,0.0279508497187,-1.0,6,5
+Male,45,High school graduate,England,likeOnly,metadata,2,2,2,4,4,3,0.4,-1.0,6,5
+Male,59,Bachelor degree,Scotland,both,metadata,2,1,4,2,4,3,0.533333333333,0.329124145232,3,5
+Male,59,Bachelor degree,Scotland,both,metadata,2,1,4,2,2,4,0.333333333333,0.329124145232,3,5
+Male,59,Bachelor degree,Scotland,both,metadata,1,1,4,2,4,2,0.4,0.125,3,5
+Male,59,Bachelor degree,Scotland,both,metadata,2,1,4,2,3,4,0.2,0.0472455591262,3,5
+Male,59,Bachelor degree,Scotland,both,metadata,1,1,4,2,2,4,0.2,0.054554472559,3,5
+Female,32,Some college,Scotland,both,metadata,2,1,4,2,2,4,0.166666666667,0.0,7,4
+Female,32,Some college,Scotland,both,metadata,2,2,1,5,5,1,0.111111111111,0.0,7,4
+Female,32,Some college,Scotland,both,metadata,1,1,3,2,2,4,0.0,0.0,7,4
+Female,32,Some college,Scotland,both,metadata,1,1,3,2,3,4,0.38490017946,0.333333333333333,7,4
+Female,32,Some college,Scotland,both,metadata,1,2,3,3,3,3,0.333333333333,0.408248290463863,7,4
+Female,32,Some college,Scotland,both,metadata,1,1,5,1,1,5,0.2,0.0,7,4
+Male,41,Some college,England,likeOnly,metadata,1,1,4,2,2,4,0.248797374828,-1.0,7,4
+Male,41,Some college,England,likeOnly,metadata,1,1,5,1,1,5,0.33032549953,-1.0,7,4
+Male,41,Some college,England,likeOnly,metadata,1,1,4,1,3,5,0.270549550017,-1.0,7,4
+Male,41,Some college,England,likeOnly,metadata,2,2,1,5,5,1,0.2,-1.0,7,4
+Male,41,Some college,England,likeOnly,metadata,2,1,3,3,3,3,0.270549550017,-1.0,7,4
+Male,41,Some college,England,likeOnly,metadata,1,1,4,2,2,4,0.047619047619,-1.0,7,4
+Male,50,High school graduate,England,both,metadata,2,1,4,1,1,4,0.4,0.0,7,10
+Male,50,High school graduate,England,both,metadata,1,2,2,4,3,3,0.302749430155,0.25,7,10
+Male,50,High school graduate,England,both,metadata,2,2,1,5,5,1,0.2,0.0,7,10
+Male,50,High school graduate,England,both,metadata,2,2,1,5,5,1,0.2,0.0,7,10
+Male,50,High school graduate,England,both,metadata,1,1,5,1,1,5,0.2,0.166666666667,7,10
+Male,50,High school graduate,England,both,metadata,2,2,1,5,5,1,0.2,0.0,7,10
+Male,50,High school graduate,England,both,metadata,1,1,5,1,1,5,0.503561200841,0.25,7,10
+Male,50,High school graduate,England,both,metadata,2,1,5,1,1,5,0.4,0.166666666667,7,10
+Female,31,High school graduate,England,both,metadata,2,2,3,4,4,2,0.0,0.0,3,3
+Female,31,High school graduate,England,both,metadata,2,2,3,3,4,3,0.5,0.0,3,3
+Female,31,High school graduate,England,both,metadata,2,2,2,5,4,2,0.0412393049421,0.0,3,3
+Female,31,High school graduate,England,both,metadata,2,2,3,3,3,3,0.119104194996,0.0962250448649376,3,3
+Female,31,High school graduate,England,both,metadata,2,1,4,2,3,3,0.5,0.0,3,3
+Female,31,High school graduate,England,both,metadata,2,1,5,2,4,3,0.22360679775,0.0,3,3
+Male,33,Some college,England,both,metadata,2,2,2,4,3,2,0.2,0.148316324759,5,5
+Male,33,Some college,England,both,metadata,1,1,4,1,1,4,0.2,0.0958167799274,5,5
+Male,33,Some college,England,both,metadata,2,1,4,1,1,4,0.2,0.0,5,5
+Male,33,Some college,England,both,metadata,2,2,2,4,3,2,0.2,0.126371017643,5,5
+Male,33,Some college,England,both,metadata,2,2,1,4,4,1,0.2,0.0,5,5
+Male,47,High school graduate,England,both,metadata,1,1,3,2,2,4,0.574914957131,0.131445855766,5,2
+Male,47,High school graduate,England,both,metadata,2,2,2,3,3,2,0.658248290464,0.08505172718,5,2
+Male,47,High school graduate,England,both,metadata,2,2,2,4,4,1,0.2,0.0806069100931,5,2
+Male,47,High school graduate,England,both,metadata,2,2,1,5,5,1,0.658248290464,0.08505172718,5,2
+Male,47,High school graduate,England,both,metadata,2,2,3,3,4,2,0.2,0.068041381744,5,2
+Male,42,Bachelor degree,England,both,metadata,1,2,3,3,3,3,0.2,0.333333333333,6,6
+Male,42,Bachelor degree,England,both,metadata,2,2,3,3,2,3,0.2,0.187370715589,6,6
+Male,42,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.4,0.0,6,6
+Male,42,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.2,0.0,6,6
+Female,56,Some college,Wales,both,metadata,1,1,3,2,2,4,0.4,0.0,6,8
+Female,56,Some college,Wales,both,metadata,1,1,3,1,1,5,0.4,0.25,6,8
+Female,56,Some college,Wales,both,metadata,2,1,4,2,2,4,0.2,0.0,6,8
+Female,56,Some college,Wales,both,metadata,1,1,3,2,2,4,0.4,0.166666666667,6,8
+Female,56,Some college,Wales,both,metadata,1,1,3,2,2,4,0.2,0.0376889180722,6,8
+Female,56,Some college,Wales,both,metadata,1,1,3,1,1,5,0.4,0.068041381744,6,8
+Male,71,High school graduate,England,both,metadata,2,2,3,3,3,3,0.333333333333,0.0,6,5
+Male,71,High school graduate,England,both,metadata,1,1,5,1,1,5,0.311388026217,0.0,6,5
+Male,71,High school graduate,England,both,metadata,1,1,5,1,3,5,0.333333333333,0.0,6,5
+Male,71,High school graduate,England,both,metadata,1,1,5,1,1,5,0.333333333333,0.0,6,5
+Male,71,High school graduate,England,both,metadata,2,2,2,4,2,4,0.333333333333,0.0,6,5
+Male,71,High school graduate,England,both,metadata,2,2,1,5,3,2,0.217213259317,0.0714285714285714,6,5
+Male,34,Bachelor degree,England,both,metadata,2,2,2,3,4,3,0.4,0.0,6,6
+Male,34,Bachelor degree,England,both,metadata,2,2,2,4,4,3,0.4,0.0,6,6
+Male,34,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.4,0.0,6,6
+Male,24,Some college,England,both,metadata,2,1,4,2,2,3,0.524971652377,0.0,3,4
+Male,24,Some college,England,both,metadata,2,1,4,1,2,5,0.4,0.0,3,4
+Male,24,Some college,England,both,metadata,1,1,3,2,1,4,0.302749430155,0.0,3,4
+Male,24,Some college,England,both,metadata,2,1,4,2,3,3,0.4,0.0,3,4
+Male,24,Some college,England,both,metadata,2,2,3,4,2,3,0.524971652377,0.0,3,4
+Male,52,Master degree,Scotland,both,metadata,1,1,3,2,2,4,0.2,0.155474875294,2,2
+Male,52,Master degree,Scotland,both,metadata,2,2,2,4,3,2,0.2,0.144046115883,2,2
+Male,52,Master degree,Scotland,both,metadata,1,1,4,2,3,4,0.2,0.0,2,2
+Male,52,Master degree,Scotland,both,metadata,2,2,2,4,3,2,0.2,0.0,2,2
+Male,52,Master degree,Scotland,both,metadata,2,2,2,5,4,1,0.408248290463863,0.306186217848,2,2
+Male,52,Master degree,Scotland,both,metadata,2,1,4,2,4,4,0.5,0.375,2,2
+Male,52,Master degree,Scotland,both,metadata,2,2,2,4,4,2,0.2,0.0,2,2
+Male,52,Master degree,Scotland,both,metadata,1,2,3,3,3,4,0.2,0.172771599327,2,2
+Female,21,Bachelor degree,Wales,both,metadata,2,2,1,5,5,1,0.2,0.0,4,5
+Female,21,Bachelor degree,Wales,both,metadata,2,2,2,4,3,2,0.2,0.178485036457,4,5
+Female,21,Bachelor degree,Wales,both,metadata,2,2,1,5,4,2,0.4,0.0,4,5
+Female,21,Bachelor degree,Wales,both,metadata,2,2,1,5,4,1,0.2,0.0,4,5
+Female,21,Bachelor degree,Wales,both,metadata,2,1,4,2,4,4,0.4,0.0,4,5
+Female,42,Some college,England,both,metadata,2,1,4,1,2,4,0.2,0.0,3,3
+Female,42,Some college,England,both,metadata,2,2,1,5,5,1,0.2,0.0,3,3
+Female,42,Some college,England,both,metadata,2,2,3,3,3,3,0.2,0.0,3,3
+Female,42,Some college,England,both,metadata,1,1,5,1,1,5,0.348461712529,0.136082763488,3,3
+Female,42,Some college,England,both,metadata,2,2,1,5,5,1,0.2,0.111111111111,3,3
+Female,42,Some college,England,both,metadata,2,1,4,3,4,2,0.2,0.0555555555556,3,3
+Female,42,Some college,England,both,metadata,2,2,1,5,3,3,0.2,0.0555555555556,3,3
+Male,55,Bachelor degree,England,likeOnly,metadata,2,2,2,4,4,2,0.408248290464,-1.0,6,5
+Male,55,Bachelor degree,England,likeOnly,metadata,1,1,4,2,3,4,0.494387749198,-1.0,6,5
+Male,55,Bachelor degree,England,likeOnly,metadata,2,1,3,2,3,2,0.2,-1.0,6,5
+Male,55,Bachelor degree,England,likeOnly,metadata,2,1,4,2,4,4,0.54020690872,-1.0,6,5
+Male,55,Bachelor degree,England,likeOnly,metadata,2,1,4,2,4,4,0.2,-1.0,6,5
+Male,55,Bachelor degree,England,likeOnly,metadata,2,1,4,2,4,4,0.4,-1.0,6,5
+Female,33,Bachelor degree,England,both,metadata,1,2,2,4,2,3,0.2,0.0789110388751,3,5
+Female,33,Bachelor degree,England,both,metadata,1,1,5,1,1,5,0.531008683647,0.0760405797362,3,5
+Female,33,Bachelor degree,England,both,metadata,1,2,2,4,2,4,0.305901699437,0.127240226919,3,5
+Female,33,Bachelor degree,England,both,metadata,1,2,2,3,3,4,0.542257712736,0.142258898432,3,5
+Female,27,Some college,England,both,metadata,2,2,1,5,5,2,0.2,0.0205152484966,2,2
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.204124145232,0.136082763488,2,2
+Female,27,Some college,England,both,metadata,2,2,1,4,4,1,0.204124145232,0.0962250448649,2,2
+Female,27,Some college,England,both,metadata,2,2,1,4,4,1,0.0481125224325,0.0292352673102,2,2
+Female,27,Some college,England,both,metadata,2,2,1,5,5,1,0.0645497224368,0.0377425678048,2,2
+Male,55,High school graduate,England,likeOnly,metadata,2,1,5,1,2,5,0.4,-1.0,8,8
+Male,55,High school graduate,England,likeOnly,metadata,2,2,3,3,3,3,0.4,-1.0,8,8
+Male,55,High school graduate,England,likeOnly,metadata,2,2,3,3,4,3,0.4,-1.0,8,8
+Male,55,High school graduate,England,likeOnly,metadata,2,2,3,3,4,3,0.2,-1.0,8,8
+Male,55,High school graduate,England,likeOnly,metadata,2,2,3,3,4,3,0.4,-1.0,8,8
+Male,55,High school graduate,England,likeOnly,metadata,2,1,3,2,4,3,0.2,-1.0,8,8
+Male,29,Some college,England,both,metadata,2,1,4,2,3,3,0.4,0.0252538136138,4,4
+Male,29,Some college,England,both,metadata,2,2,2,4,4,2,0.2,0.212356547799,4,4
+Male,29,Some college,England,both,metadata,1,2,1,5,5,1,0.2,0.0919627825494,4,4
+Male,29,Some college,England,both,metadata,1,2,3,3,3,3,0.2,0.135142122963,4,4
+Male,29,Some college,England,both,metadata,2,2,3,3,5,2,0.4,0.25,4,4
+Male,29,Some college,England,both,metadata,1,1,3,3,3,4,0.0597614304667,0.179880715233,4,4
+Male,44,Bachelor degree,Scotland,both,metadata,1,1,4,3,3,3,0.408248290464,0.0,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,2,2,2,2,4,3,0.574914957131,0.0,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,2,2,3,2,4,3,0.2,0.0306569669742,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,1,1,2,4,3,3,0.214015582446,0.0,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,1,1,3,3,4,4,0.25,0.0,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,2,2,5,4,4,3,0.0721687836487,0.0597614304667,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,1,1,2,2,3,5,0.663675134595,0.0,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,1,1,3,4,2,3,0.370790811899,0.0,4,2
+Male,44,Bachelor degree,Scotland,both,metadata,1,1,4,3,3,2,0.0721687836487,0.0597614304667,4,2
+Male,50,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.166666666667,0.0,5,6
+Male,50,Bachelor degree,England,both,metadata,2,1,4,2,4,2,0.152732963249,0.07453559925,5,6
+Male,50,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.166666666667,0.0,5,6
+Male,50,Bachelor degree,England,both,metadata,1,1,3,3,4,2,0.469416096821,0.136082763488,5,6
+Male,50,Bachelor degree,England,both,metadata,1,1,3,3,5,1,0.394367441865,0.0833333333333,5,6
+Male,50,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.166666666667,0.0,5,6
+Male,50,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.35830498571,0.136082763488,5,6
+Male,50,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.197177407693,0.0962250448649,5,6
+Female,57,Bachelor degree,England,both,metadata,1,1,4,3,4,4,0.4,0.124311152904,5,7
+Female,57,Bachelor degree,England,both,metadata,1,1,4,1,2,5,0.0,0.0,5,7
+Female,57,Bachelor degree,England,both,metadata,1,1,3,4,3,3,0.454732973247,0.370790811899,5,7
+Female,57,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.4,0.172903773121,5,7
+Female,57,Bachelor degree,England,both,metadata,1,1,3,3,4,2,0.0,0.25,5,7
+Female,57,Bachelor degree,England,both,metadata,1,1,3,2,4,4,0.0833333333333,0.0,5,7
+Female,26,Bachelor degree,England,both,metadata,1,1,2,4,4,2,0.2,0.166666666667,7,6
+Female,26,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.2,0.0351364184463,7,6
+Female,26,Bachelor degree,England,both,metadata,1,1,4,2,4,4,0.0721687836487,0.02484519975,7,6
+Female,26,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.115608194552,0.060858061945,7,6
+Female,26,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.0304290309725,7,6
+Male,42,High school graduate,England,likeOnly,metadata,1,1,5,1,3,3,0.4,-1.0,7,8
+Male,42,High school graduate,England,likeOnly,metadata,2,1,5,2,3,3,0.4,-1.0,7,8
+Male,42,High school graduate,England,likeOnly,metadata,2,2,2,5,4,3,0.2,-1.0,7,8
+Male,42,High school graduate,England,likeOnly,metadata,1,1,5,1,2,4,0.4,-1.0,7,8
+Male,42,High school graduate,England,likeOnly,metadata,2,2,1,4,4,2,0.4,-1.0,7,8
+Male,42,High school graduate,England,likeOnly,metadata,2,2,1,4,3,3,0.136082763488,-1.0,7,8
+Female,51,Bachelor degree,England,both,metadata,2,2,3,3,2,2,0.0922577127364,0.0360843918244,5,6
+Female,51,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.352062072616,0.125,5,6
+Female,51,Bachelor degree,England,both,metadata,2,1,4,2,3,3,0.393728739283,0.0833333333333,5,6
+Female,51,Bachelor degree,England,both,metadata,2,1,4,2,3,3,0.2,0.0298807152334,5,6
+Female,51,Bachelor degree,England,both,metadata,2,2,1,5,4,1,0.287457478565,0.102062072616,5,6
+Female,51,Bachelor degree,England,both,metadata,1,1,5,1,1,5,0.173857936682,0.0790569415042,5,6
+Male,50,Bachelor degree,England,both,metadata,1,1,4,2,2,4,0.4,0.204896732146,6,7
+Male,50,Bachelor degree,England,both,metadata,2,1,3,2,3,3,0.4,0.0,6,7
+Male,50,Bachelor degree,England,both,metadata,1,1,5,1,2,5,0.2,0.0,6,7
+Male,50,Bachelor degree,England,both,metadata,2,1,4,2,3,3,0.4,0.0,6,7
+Male,50,Bachelor degree,England,both,metadata,1,1,5,1,1,5,0.597852884515,0.431186217848,6,7
+Male,38,Bachelor degree,England,both,metadata,2,2,3,3,2,3,0.2,0.0,5,4
+Male,38,Bachelor degree,England,both,metadata,2,2,3,4,2,4,0.348727660653,0.0721687836487,5,4
+Male,38,Bachelor degree,England,both,metadata,2,2,3,4,2,3,0.319707148687,0.0589255650989,5,4
+Male,38,Bachelor degree,England,both,metadata,2,2,3,3,2,3,0.46835763803,0.0,5,4
+Male,38,Bachelor degree,England,both,metadata,2,2,2,4,2,2,0.374818638405,0.0668153104781,5,4
+Male,38,Bachelor degree,England,both,metadata,2,2,4,2,3,3,0.46835763803,0.0,5,4
+Male,25,Some college,England,both,metadata,1,2,3,4,4,2,0.2,0.0721687836487,5,5
+Male,25,Some college,England,both,metadata,2,1,4,2,3,4,0.4,0.0,5,5
+Male,25,Some college,England,both,metadata,1,1,3,2,3,4,0.4,0.0,5,5
+Male,25,Some college,England,both,metadata,2,2,2,4,4,2,0.4,0.0,5,5
+Male,25,Some college,England,both,metadata,2,2,3,3,3,3,0.0416666666667,0.0214373231428,5,5
+Male,25,Some college,England,both,metadata,1,1,4,2,4,3,0.148148148148,0.019641855033,5,5
+Male,25,Some college,England,both,metadata,2,2,2,4,2,2,0.137492985231,0.0208333333333,5,5
+Male,25,Some college,England,both,metadata,2,2,2,5,4,2,0.4,0.0,5,5
+Female,39,Some college,England,both,metadata,2,2,2,4,4,2,0.4,0.0,4,4
+Female,39,Some college,England,both,metadata,2,1,4,2,2,4,0.111803398874989,0.133630620956212,4,4
+Female,39,Some college,England,both,metadata,2,1,2,2,2,4,0.282842712474619,0.169030850945703,4,4
+Female,39,Some college,England,both,metadata,2,1,4,2,2,4,0.2,0.0,4,4
+Female,39,Some college,England,both,metadata,2,2,2,4,4,2,0.119522860933439,0.142857142857143,4,4
+Female,31,High school graduate,England,both,metadata,2,2,3,4,4,2,0.2,0.1,5,3
+Female,31,High school graduate,England,both,metadata,2,2,2,4,3,2,0.45,0.263299316186,5,3
+Female,31,High school graduate,England,both,metadata,2,1,3,2,3,4,0.2,0.131465775081,5,3
+Female,31,High school graduate,England,both,metadata,2,1,4,2,3,4,0.404124145232,0.148316324759,5,3
+Female,31,High school graduate,England,both,metadata,2,1,4,2,3,4,0.204124145232,0.148316324759,5,3
+Female,31,High school graduate,England,both,metadata,1,1,3,4,3,4,0.404124145232,0.148316324759,5,3
+Female,31,High school graduate,England,both,metadata,2,1,4,2,4,4,0.45,0.181649658093,5,3
+Female,31,High school graduate,England,both,metadata,1,1,5,2,3,5,0.2,0.158269143722,5,3
+Female,31,High school graduate,England,both,metadata,2,2,2,4,3,2,0.45,0.0280024576563,5,3
+Male,36,Some college,Scotland,both,metadata,2,2,1,5,5,1,0.4,0.0,5,5
+Male,36,Some college,Scotland,both,metadata,1,1,5,1,1,5,0.4,0.0,5,5
+Male,36,Some college,Scotland,both,metadata,2,2,1,5,5,1,0.4,0.0,5,5
+Male,36,Some college,Scotland,both,metadata,1,1,5,1,1,5,0.2,0.0,5,5
+Female,61,High school graduate,England,both,metadata,2,1,4,2,2,4,0.296721680982,0.0,6,3
+Female,61,High school graduate,England,both,metadata,1,2,2,4,4,2,0.2,0.0,6,3
+Female,61,High school graduate,England,both,metadata,1,1,3,2,3,4,0.375,0.0,6,3
+Female,61,High school graduate,England,both,metadata,2,1,4,2,3,4,0.2,0.0,6,3
+Female,61,High school graduate,England,both,metadata,2,2,1,5,5,1,0.338388347648,0.166666666667,6,3
+Female,61,High school graduate,England,both,metadata,2,1,4,2,3,4,0.120599817297,0.0,6,3
+Female,61,High school graduate,England,both,metadata,2,1,4,2,2,4,0.2,0.0,6,3
+Male,31,High school graduate,England,likeOnly,metadata,2,2,4,3,4,3,0.218217890235992,-1.0,2,2
+Male,31,High school graduate,England,likeOnly,metadata,1,1,3,5,5,4,0.408248290463863,-1.0,2,2
+Male,31,High school graduate,England,likeOnly,metadata,2,2,4,3,3,3,0.0,-1.0,2,2
+Male,31,High school graduate,England,likeOnly,metadata,2,1,3,3,4,4,0.218217890235992,-1.0,2,2
+Male,31,High school graduate,England,likeOnly,metadata,2,2,2,3,2,2,0.109108945117996,-1.0,2,2
+Male,31,High school graduate,England,likeOnly,metadata,1,2,3,2,3,2,0.2,-1.0,2,2
+Female,23,High school graduate,England,both,metadata,1,1,4,2,2,4,0.174077655955698,0.0776294462395,3,3
+Female,23,High school graduate,England,both,metadata,1,1,5,1,1,5,0.2,0.0833333333333,3,3
+Female,23,High school graduate,England,both,metadata,1,2,2,4,4,2,0.408248290463863,0.0895205273329,3,3
+Female,23,High school graduate,England,both,metadata,1,2,2,4,4,1,0.2,0.119512557571,3,3
+Female,23,High school graduate,England,both,metadata,2,2,2,3,4,1,0.288675134594813,0.197111409059,3,3
+Female,23,High school graduate,England,both,metadata,2,1,4,2,5,2,0.258198889747161,0.0632506775933,3,3
+Male,19,High school graduate,England,likeOnly,metadata,1,1,5,1,3,4,0.5,-1.0,4,2
+Male,19,High school graduate,England,likeOnly,metadata,2,2,2,5,3,4,0.2,-1.0,4,2
+Male,19,High school graduate,England,likeOnly,metadata,1,1,5,1,4,2,0.444444444444,-1.0,4,2
+Male,19,High school graduate,England,likeOnly,metadata,2,2,5,3,2,3,0.0527046276695,-1.0,4,2
+Male,19,High school graduate,England,likeOnly,metadata,2,2,3,3,3,3,0.5,-1.0,4,2
+Male,19,High school graduate,England,likeOnly,metadata,2,2,4,2,3,3,0.333333333333,-1.0,4,2
+Female,64,Bachelor degree,England,both,metadata,2,2,3,3,2,4,0.2,0.0,7,6
+Female,64,Bachelor degree,England,both,metadata,2,2,1,5,4,2,0.4,0.0,7,6
+Female,64,Bachelor degree,England,both,metadata,1,1,4,2,3,4,0.2,0.0,7,6
+Female,64,Bachelor degree,England,both,metadata,2,2,1,4,4,2,0.4,0.0,7,6
+Female,47,High school graduate,England,both,metadata,1,1,4,1,1,5,0.2,0.0625,5,7
+Female,47,High school graduate,England,both,metadata,2,1,4,2,2,3,0.2,0.0833333333333,5,7
+Female,47,High school graduate,England,both,metadata,1,2,2,4,3,3,0.408248290464,0.102062072616,5,7
+Female,47,High school graduate,England,both,metadata,2,2,1,5,5,1,0.279056941504,0.0102037129816,5,7
+Female,47,High school graduate,England,both,metadata,1,2,1,5,3,2,0.2,0.0833333333333,5,7
+Female,47,High school graduate,England,both,metadata,1,2,1,5,5,1,0.166666666667,0.0833333333333,5,7
+Female,56,Some college,Wales,both,metadata,2,1,5,1,1,5,0.4,0.0,5,5
+Female,56,Some college,Wales,both,metadata,1,1,3,2,2,4,0.2,0.144337567297,5,5
+Female,56,Some college,Wales,both,metadata,1,2,3,4,2,3,0.2,0.0,5,5
+Female,56,Some college,Wales,both,metadata,1,1,3,5,1,5,0.4,0.129099444874,5,5
+Female,25,Some college,England,likeOnly,metadata,2,1,4,1,2,4,0.2,-1.0,5,7
+Female,25,Some college,England,likeOnly,metadata,2,1,4,2,2,4,0.4,-1.0,5,7
+Female,25,Some college,England,likeOnly,metadata,2,2,2,4,3,2,0.4,-1.0,5,7
+Female,25,Some college,England,likeOnly,metadata,2,1,4,2,2,3,0.4,-1.0,5,7
+Female,25,Some college,England,likeOnly,metadata,2,1,4,2,3,4,0.2,-1.0,5,7
+Female,25,Some college,England,likeOnly,metadata,2,1,5,1,1,5,0.4,-1.0,5,7
+Female,35,Master degree,England,likeOnly,metadata,2,2,3,4,4,2,0.5,-1.0,4,4
+Female,35,Master degree,England,likeOnly,metadata,1,2,2,4,4,2,0.0,-1.0,4,4
+Female,35,Master degree,England,likeOnly,metadata,2,1,4,2,3,3,0.2,-1.0,4,4
+Female,35,Master degree,England,likeOnly,metadata,2,1,4,2,2,4,0.333333333333333,-1.0,4,4
+Female,35,Master degree,England,likeOnly,metadata,2,1,4,2,1,5,1.2,-1.0,4,4
+Female,35,Master degree,England,likeOnly,metadata,2,1,4,2,2,4,1.2,-1.0,4,4
+Female,45,Bachelor degree,England,both,metadata,1,2,2,4,4,2,0.2,0.0,4,7
+Female,45,Bachelor degree,England,both,metadata,1,1,3,3,3,3,0.2,0.19245008973,4,7
+Female,45,Bachelor degree,England,both,metadata,2,1,5,1,3,4,0.4,0.0,4,7
+Female,45,Bachelor degree,England,both,metadata,1,1,3,2,3,3,0.408248290463863,0.0,4,7
+Female,45,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.196548720153,4,7
+Female,45,Bachelor degree,England,both,metadata,1,1,4,2,3,3,0.2,0.092545581314,4,7
+Male,40,Some college,England,likeOnly,metadata,2,2,3,4,4,2,0.4,-1.0,4,4
+Male,40,Some college,England,likeOnly,metadata,1,2,3,3,3,3,0.0,-1.0,4,4
+Male,40,Some college,England,likeOnly,metadata,2,2,2,4,3,2,0.5,-1.0,4,4
+Male,40,Some college,England,likeOnly,metadata,1,1,4,2,2,4,0.2,-1.0,4,4
+Male,40,Some college,England,likeOnly,metadata,2,1,4,2,3,4,0.4,-1.0,4,4
+Male,40,Some college,England,likeOnly,metadata,1,1,4,2,5,3,0.5,-1.0,4,4
+Male,49,Bachelor degree,England,likeOnly,metadata,2,2,2,1,1,2,0.5,-1.0,5,6
+Male,49,Bachelor degree,England,likeOnly,metadata,2,2,1,1,1,1,0.204124145232,-1.0,5,6
+Male,49,Bachelor degree,England,likeOnly,metadata,2,2,4,2,2,4,0.335410196625,-1.0,5,6
+Male,49,Bachelor degree,England,likeOnly,metadata,1,1,3,1,1,5,0.4,-1.0,5,6
+Male,49,Bachelor degree,England,likeOnly,metadata,1,2,2,3,3,2,0.4,-1.0,5,6
+Male,49,Bachelor degree,England,likeOnly,metadata,1,2,3,4,4,1,0.2,-1.0,5,6
+Male,52,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.422222222222,0.0,5,3
+Male,52,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.182574185835055,5,3
+Male,52,Bachelor degree,England,both,metadata,2,2,3,4,4,2,0.2,0.0,5,3
+Male,52,Bachelor degree,England,both,metadata,2,2,3,5,5,1,0.2,0.0,5,3
+Male,52,Bachelor degree,England,both,metadata,2,1,4,2,3,4,0.4,0.109108945117996,5,3
+Male,52,Bachelor degree,England,both,metadata,2,1,4,2,3,4,0.2,0.0,5,3
+Male,52,Bachelor degree,England,both,metadata,2,2,3,3,3,3,0.2,0.154303349962092,5,3
+Male,43,Master degree,England,likeOnly,metadata,1,1,3,2,2,4,0.0,-1.0,7,7
+Male,43,Master degree,England,likeOnly,metadata,1,1,3,2,2,4,0.47491984214,-1.0,7,7
+Male,43,Master degree,England,likeOnly,metadata,1,1,4,2,2,4,0.4,-1.0,7,7
+Male,43,Master degree,England,likeOnly,metadata,1,1,4,2,2,4,0.502367191437,-1.0,7,7
+Male,43,Master degree,England,likeOnly,metadata,2,1,3,2,3,4,0.36939646444,-1.0,7,7
+Male,43,Master degree,England,likeOnly,metadata,1,1,3,2,2,4,0.2,-1.0,7,7
+Female,33,Master degree,England,likeOnly,metadata,2,2,3,3,4,2,0.367851130198,-1.0,6,3
+Female,33,Master degree,England,likeOnly,metadata,2,2,1,5,5,1,0.302749430155,-1.0,6,3
+Female,33,Master degree,England,likeOnly,metadata,2,1,4,2,3,4,0.0,-1.0,6,3
+Female,33,Master degree,England,likeOnly,metadata,2,1,3,2,3,3,0.302749430155,-1.0,6,3
+Female,33,Master degree,England,likeOnly,metadata,1,1,4,2,2,4,0.0,-1.0,6,3
+Female,33,Master degree,England,likeOnly,metadata,2,2,2,4,4,2,0.302749430155,-1.0,6,3
+Male,35,Master degree,England,both,metadata,2,2,2,4,3,3,0.2,0.0,7,4
+Male,35,Master degree,England,both,metadata,1,1,4,2,2,4,0.2,0.0,7,4
+Male,35,Master degree,England,both,metadata,1,2,2,4,3,3,0.339384685012,0.454124145232,7,4
+Male,35,Master degree,England,both,metadata,2,2,2,4,3,3,0.172125848569,0.204124145232,7,4
+Male,35,Master degree,England,both,metadata,2,1,4,3,3,4,0.0308606699924,0.0,7,4
+Male,35,Master degree,England,both,metadata,1,1,4,2,3,4,0.267375507159,0.0,7,4
+Female,43,Bachelor degree,England,both,metadata,2,2,2,4,3,2,0.4,0.0,7,5
+Female,43,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.333333333333,7,5
+Female,43,Bachelor degree,England,both,metadata,1,1,4,2,3,4,0.4,0.0,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,2,3,4,4,3,0.2,0.0,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,2,1,5,5,1,0.2,0.0456435464588,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,1,1,5,1,2,4,0.4,0.0,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,1,4,2,4,3,0.4,0.158113883008,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,2,1,4,2,3,4,0.4,0.123415305788,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,1,1,4,2,3,3,0.2,0.0,7,5
+Male,58,Advanced graduate or Ph.D.,England,both,metadata,1,1,4,2,3,4,0.4,0.166666666667,7,5
+Female,33,Master degree,England,both,metadata,1,1,4,2,2,4,0.280420330785,0.0,8,5
+Female,33,Master degree,England,both,metadata,2,2,3,3,3,3,0.4,0.0,8,5
+Female,33,Master degree,England,both,metadata,2,1,4,2,2,4,0.4,0.133630620956212,8,5
+Female,33,Master degree,England,both,metadata,2,1,4,2,2,4,0.4,0.101015254455221,8,5
+Female,33,Master degree,England,both,metadata,1,1,5,2,2,5,0.4,0.169030850945703,8,5
+Female,33,Master degree,England,both,metadata,2,2,3,3,4,2,0.2,0.169030850945703,8,5
+Male,22,High school graduate,England,both,metadata,2,2,2,4,4,2,1.2,0.025515518154,2,1
+Male,22,High school graduate,England,both,metadata,2,2,1,5,5,1,0.5,0.0456435464588,2,1
+Male,22,High school graduate,England,both,metadata,1,1,4,2,2,4,0.2,0.0,2,1
+Male,22,High school graduate,England,both,metadata,2,1,4,2,3,3,0.288675134594813,0.0322748612184,2,1
+Male,22,High school graduate,England,both,metadata,2,1,4,2,3,3,0.333333333333333,0.051031036308,2,1
+Male,22,High school graduate,England,both,metadata,2,2,3,3,3,2,1.2,0.0,2,1
+Male,22,High school graduate,England,both,metadata,1,1,5,1,1,5,0.2,0.0416666666667,2,1
+Female,28,High school graduate,Scotland,both,metadata,2,1,4,2,2,3,0.2,0.449778435458,7,10
+Female,28,High school graduate,Scotland,both,metadata,1,1,4,1,1,4,0.4,0.222568366104,7,10
+Female,28,High school graduate,Scotland,both,metadata,2,1,4,2,2,4,0.4,0.453891836923,7,10
+Female,28,High school graduate,Scotland,both,metadata,2,1,4,2,2,3,0.2,0.0,7,10
+Female,28,High school graduate,Scotland,both,metadata,2,2,1,5,4,2,0.2,0.0,7,10
+Female,28,High school graduate,Scotland,both,metadata,2,2,1,4,4,2,0.2,0.0,7,10
+Female,28,High school graduate,Scotland,both,metadata,1,1,5,1,1,4,0.4,0.0,7,10
+Male,19,High school graduate,England,both,metadata,1,2,3,4,4,2,0.2,0.060858061945,5,4
+Male,19,High school graduate,England,both,metadata,2,2,2,5,5,1,0.2,0.136082763488,5,4
+Male,19,High school graduate,England,both,metadata,2,2,3,3,4,2,0.4,0.112292511932,5,4
+Male,19,High school graduate,England,both,metadata,2,2,3,3,4,3,0.2,0.166666666667,5,4
+Male,19,High school graduate,England,both,metadata,2,2,2,3,3,3,0.4,0.0,5,4
+Male,19,High school graduate,England,both,metadata,2,2,3,4,4,2,0.2,0.124384998726,5,4
+Male,19,High school graduate,England,both,metadata,2,1,4,2,2,4,0.4,0.117851130198,5,4
+Male,19,High school graduate,England,both,metadata,1,1,4,1,2,4,0.4,0.0,5,4
+Male,61,None,England,both,metadata,2,2,1,4,4,2,0.265189386475,0.086066296582387,4,3
+Male,61,None,England,both,metadata,2,2,1,5,5,1,0.436202233308,0.133630620956212,4,3
+Male,61,None,England,both,metadata,1,2,1,5,5,1,0.333333333333,0.408248290463863,4,3
+Male,61,None,England,both,metadata,1,2,1,3,3,1,0.0962250448649,0.125,4,3
+Male,61,None,England,both,metadata,2,2,1,3,3,1,0.333333333333,0.707106781186547,4,3
+Male,61,None,England,both,metadata,2,2,1,3,3,1,0.213980011086,0.117851130197758,4,3
+Male,30,Some college,England,both,metadata,1,2,1,5,5,1,0.2,0.0,4,6
+Male,30,Some college,England,both,metadata,2,2,2,4,4,2,0.2,0.11995696513,4,6
+Male,30,Some college,England,both,metadata,2,2,2,4,4,2,0.2,0.124588763248,4,6
+Male,30,Some college,England,both,metadata,2,2,2,4,4,1,0.2,0.116357133727,4,6
+Male,30,Some college,England,both,metadata,2,1,4,1,3,4,0.4,0.0,4,6
+Female,45,None,England,likeOnly,metadata,1,1,4,3,4,4,0.0,-1.0,3,3
+Female,45,None,England,likeOnly,metadata,2,2,4,2,3,3,0.284515425473,-1.0,3,3
+Female,45,None,England,likeOnly,metadata,2,1,4,2,4,4,0.353553390593,-1.0,3,3
+Female,45,None,England,likeOnly,metadata,2,1,4,2,2,4,0.2,-1.0,3,3
+Female,45,None,England,likeOnly,metadata,2,2,2,4,3,4,0.284515425473,-1.0,3,3
+Female,45,None,England,likeOnly,metadata,2,1,4,2,4,4,0.353553390593,-1.0,3,3
+Female,25,Bachelor degree,England,both,metadata,2,2,2,4,5,1,0.2,0.258198889747161,5,8
+Female,25,Bachelor degree,England,both,metadata,2,2,5,5,5,1,0.2,0.0,5,8
+Female,25,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.4,0.158113883008419,5,8
+Female,25,Bachelor degree,England,both,metadata,1,1,5,1,2,4,0.579124145232,0.0,5,8
+Female,25,Bachelor degree,England,both,metadata,2,2,4,2,4,2,0.0589255650989,0.0,5,8
+Female,70,Bachelor degree,England,both,metadata,1,1,3,1,2,5,0.2,0.134422650263,5,5
+Female,70,Bachelor degree,England,both,metadata,2,1,4,2,3,4,0.4,0.213614870346,5,5
+Female,70,Bachelor degree,England,both,metadata,2,1,4,2,4,2,0.170710678119,0.0,5,5
+Female,70,Bachelor degree,England,both,metadata,1,1,4,1,2,5,0.4,0.204124145232,5,5
+Female,70,Bachelor degree,England,both,metadata,1,1,3,2,2,4,0.2,0.0,5,5
+Female,70,Bachelor degree,England,both,metadata,1,2,1,5,5,1,0.1,0.0,5,5
+Female,57,Bachelor degree,England,both,metadata,1,2,2,3,5,2,0.485113933754,0.111111111111,6,6
+Female,57,Bachelor degree,England,both,metadata,2,1,5,1,1,5,0.4,0.0962250448649,6,6
+Female,57,Bachelor degree,England,both,metadata,2,1,4,2,4,4,0.4,0.0,6,6
+Female,57,Bachelor degree,England,both,metadata,1,1,2,2,2,4,0.2,0.117851130198,6,6
+Female,57,Bachelor degree,England,both,metadata,2,1,4,2,4,4,0.2,0.0,6,6
+Female,57,Bachelor degree,England,both,metadata,1,1,2,4,3,3,0.2,0.0,6,6
+Female,57,Bachelor degree,England,both,metadata,2,1,4,1,2,4,0.4,0.0860662965824,6,6
+Female,57,Bachelor degree,England,both,metadata,1,1,5,1,1,4,0.4,0.0,6,6
+Female,28,Master degree,England,likeOnly,metadata,2,2,4,3,4,4,0.337971876579,-1.0,4,9
+Female,28,Master degree,England,likeOnly,metadata,2,2,2,3,2,2,0.611111111111,-1.0,4,9
+Female,28,Master degree,England,likeOnly,metadata,2,2,4,2,4,4,0.2,-1.0,4,9
+Female,28,Master degree,England,likeOnly,metadata,2,2,2,4,2,2,0.5,-1.0,4,9
+Female,28,Master degree,England,likeOnly,metadata,2,2,2,4,2,2,0.0,-1.0,4,9
+Female,28,Master degree,England,likeOnly,metadata,2,2,2,4,2,2,0.34012405377,-1.0,4,9
+Female,57,Bachelor degree,England,likeOnly,metadata,1,2,1,5,2,1,0.4,-1.0,8,9
+Female,57,Bachelor degree,England,likeOnly,metadata,2,2,1,5,5,1,0.0928233551806,-1.0,8,9
+Female,57,Bachelor degree,England,likeOnly,metadata,2,1,5,1,1,5,0.4,-1.0,8,9
+Female,57,Bachelor degree,England,likeOnly,metadata,2,2,2,3,5,2,0.477062072616,-1.0,8,9
+Female,57,Bachelor degree,England,likeOnly,metadata,2,2,3,3,2,3,0.2,-1.0,8,9
+Female,57,Bachelor degree,England,likeOnly,metadata,2,2,1,5,5,1,0.4,-1.0,8,9
+Female,51,Bachelor degree,Scotland,both,metadata,2,2,1,5,5,1,0.2,0.0,6,6
+Female,51,Bachelor degree,Scotland,both,metadata,1,2,1,5,5,1,0.2,0.0,6,6
+Female,51,Bachelor degree,Scotland,both,metadata,1,1,4,2,2,4,0.4,0.0,6,6
+Female,51,Bachelor degree,Scotland,both,metadata,2,1,4,2,3,4,0.2,0.0,6,6
+Female,51,Bachelor degree,Scotland,both,metadata,2,2,2,4,3,2,0.2,0.0,6,6
+Female,51,Bachelor degree,Scotland,both,metadata,2,1,5,1,2,4,0.4,0.0,6,6
+Female,39,Master degree,England,both,metadata,2,1,4,2,2,4,0.4,0.0,4,6
+Female,39,Master degree,England,both,metadata,2,2,3,3,3,3,0.2,0.0,4,6
+Female,39,Master degree,England,both,metadata,2,1,4,2,3,4,0.4,0.0,4,6
+Female,39,Master degree,England,both,metadata,2,2,2,4,3,3,0.2,0.0,4,6
+Female,39,Master degree,England,both,metadata,2,1,3,2,2,3,0.4,0.188982236504614,4,6
+Female,39,Master degree,England,both,metadata,2,2,2,2,3,3,0.157674025652,0.138675049056307,4,6
+Female,56,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.612372435696,0.0,4,5
+Female,56,Bachelor degree,England,both,metadata,2,1,4,2,2,4,0.2,0.136082763488,4,5
+Female,56,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.353553390593,0.0,4,5
+Female,56,Bachelor degree,England,both,metadata,2,2,2,4,4,2,0.2,0.166666666667,4,5
+Female,56,Bachelor degree,England,both,metadata,2,2,2,4,4,3,0.2,0.0,4,5
+Female,56,Bachelor degree,England,both,metadata,2,2,2,4,4,3,0.2,0.0471404520791,4,5
+Female,56,Bachelor degree,England,both,metadata,2,2,1,5,5,1,0.408248290464,0.0,4,5
+Male,43,Some college,England,both,metadata,2,2,2,4,2,2,0.4,0.0,3,3
+Male,43,Some college,England,both,metadata,1,1,4,2,2,4,0.111111111111,0.0,3,3
+Male,43,Some college,England,both,metadata,2,2,2,4,2,3,0.2,0.0,3,3
+Male,43,Some college,England,both,metadata,2,2,2,4,2,3,0.4,0.104315194249,3,3
+Male,43,Some college,England,both,metadata,2,2,2,4,2,3,0.4,0.0,3,3
+Male,43,Some college,England,both,metadata,2,2,2,4,2,2,0.4,0.138116383497,3,3
+Male,43,Some college,England,both,metadata,1,1,4,2,2,4,0.333333333333,0.370790811899,3,3
