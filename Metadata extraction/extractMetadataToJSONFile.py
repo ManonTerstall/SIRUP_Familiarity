@@ -5,7 +5,7 @@ import urllib
 
 pidRec = []
 doubles = 0
-with open('/Users/manonterstall/Google Drive/Online Evaluation/pidsA.csv','rU') as csvfile:
+with open('path to csv file with pids','rU') as csvfile:
 	readers = csv.reader(csvfile, delimiter =',', quotechar ='|')
 	for row in readers:
 		if len(row) > 0:
@@ -55,7 +55,7 @@ def extractData(pid):
 
 	return 	title, subtitle, synopsis, genre, format, imageURL
 
-f = open('/Users/manonterstall/Google Drive/Online Evaluation/metadata.js', 'w')
+f = open('path to json file', 'w')
 
 #delete = ["News", "Weather", "Series"] # delete news and weather programs
 
