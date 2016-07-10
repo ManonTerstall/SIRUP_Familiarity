@@ -1,0 +1,526 @@
+
+<!doctype html>
+<html lang="us">
+<head>
+	<meta charset="utf-8">
+	<title>Questionnaire</title>
+	<link href="styleSheet.css" rel="stylesheet">
+	<script type="text/javascript" src="external/jquery/jquery.js"></script>
+
+</head>
+
+<body>
+
+	<div id="body">
+
+	<!-- introduction page -->
+	<div id="instruction_page" style='margin-top:3em'>
+		<p><img src="http://vista-tv.eu/vistatv.files.wordpress.com/2012/05/vistatv_blau-w=640.png"> <img height"56.5" width="184" src="http://semanticweb.cs.vu.nl/R/vulogo.png"></p>
+		<p>Welcome to the TV programmes recommendation study. It is part of a master project at the <a href="http://www.vu.nl/en/" target="_blank" STYLE="text-decoration: none">VU University Amsterdam</a> in the context of the <a href="http://vista-tv.eu/" target="_blank" STYLE="text-decoration: none">European ViSTA TV project</a>. The aim is to gather feedback from real TV viewers on our research method to recommend pleasant and unexpected TV programmes as a way of improving the overall TV experience in the area of a growing online viewing behaviour.</p>
+		<p>This survey has 4 parts, where we will ask you the following types of questions:
+			<ol>
+				<li>For 8 TV programmes indicate whether you like each of them or not.</li>
+				<li>What are your TV preferences.</li>
+				<li>Demographics and personalia.</li>
+				<li>Based on the inputs from parts 1, 2 and 3 we generate 18 recommendations for you and we ask you to evaluate each of them.</li>
+			</ol>
+		</p>
+		<p>All of your answers will be kept strictly confidential. The information provided will be used solely for the purpose of this academic research project.
+		</p>
+		<p>
+			Thank you for participating in the TV programmes recommendation study!
+		</p>
+<!-- 		<p>Thank you for participating in this study.</p>
+		<p>This study is part of a master project at the <a href="http://www.vu.nl/en/" target="_blank" STYLE="text-decoration: none">VU University Amsterdam</a> as part of the <a href="http://vista-tv.eu/" target="_blank" STYLE="text-decoration: none">European ViSTA TV project</a>. The aim of this study is to learn how we can make pleasant and unexpected TV programme recommendations to improve TV experience.</p>
+		<p>In this survey you will be asked:
+			<ol>
+				<li>For 8 TV programmes to indicate whether you like it or not.</li>
+				<li>Some questions about your TV preferences.</li>
+				<li>Some personal questions.</li>
+				<li>Based on the previous input we generate 18 recommendations. For each recommendation you are asked to answer some questions.</li>
+			</ol>
+		</p>
+
+		<p>Your answers will be kept confidential. The information provided will be used solely for the purpose of this university research project.</p> -->
+
+
+		<div class="hot-container">
+			<p>
+				<button id = "button" class="btn btn-blue" onclick="firstDiv();">Start</button>
+			</p>
+
+		</div>
+	</div>
+
+
+	<!-- First Page Making User Profile !-->
+	<div id = "page_one">
+		<div id="progressbar_one"></div>
+		<!-- Instructions of what they need to do on first page -->
+		<div class = "intro" style='margin-top:3em'>
+			<h3>Part 1: Your ratings for TV programmes </h3>
+			<p>We show you 8 programmes. Click on the picture of each of the TV programmes to indicate your opinion about it (1) like it, (2) don’t like it or (3) you are not familiar with it.</p>
+			<ul>
+				<li>Click once if you like the programme</li>
+				<li>Click twice if you do not like the programme</li>
+			</ul>
+		</div>
+
+		<!-- Front page programs -->
+		<div id ="frontPrograms"  style="margin-bottom: 3em;">
+			
+			<!-- Programs 1,2 and 3 -->
+			<table id="front" >
+				<tr>
+					<td>
+						<div class = "outer">
+							<div class = "inner"><img class = "liked" id  = "myImgOne"  onclick='nameForColor("myImgOne", "divOne","divOneText");'/>
+								<div class = "liked" id  = "divOne" onclick='nameForColor("myImgOne", "divOne","divOneText");'><text id= "divOneText"/></div>
+							</div><div class = "inner">
+							<div class ="ininner" id  = "divOne" ><h4><text id = "nameFrontOne"/></h4></br>
+							</div>
+							<div class ="ininnertwo" id  = "divOne" >
+							<text id = "synopsisFrontOne"/></div>
+							</div>
+						</div>						
+					</td>
+					<td>
+						<div class = "outer">
+							<div class = "inner">
+								<img class = "liked" id = "myImgTwo"  onclick='nameForColor("myImgTwo", "divTwo","divTwoText");'/>
+									<div class = "liked" id  = "divTwo" onclick='nameForColor("myImgTwo", "divTwo","divTwoText");'><text id= "divTwoText"/></div>
+							</div><div class = "inner">
+							<div class ="ininner"><h4><text id = "nameFrontTwo"/></h4></br>
+							</div>
+							<div class ="ininnertwo">
+								<text id = "synopsisFrontTwo"/>
+							</div>
+							</div>
+						</div>
+						
+					</td>
+					<td>
+						<div class = "outer">
+							<div class = "inner">
+								<img class = "liked" id = "myImgThree"  onclick='nameForColor("myImgThree", "divThree","divThreeText");'/>
+								<div class = "liked" id  = "divThree" onclick='nameForColor("myImgThree", "divThree","divThreeText");'><text id= "divThreeText"/></div>
+							</div><div class="inner">
+							<div class ="ininner">
+								<h4><text id = "nameFrontThree"/></h4></br>
+							</div>
+							<div class ="ininnertwo">
+								<text id = "synopsisFrontThree"/>
+							</div>
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class = "outer">
+							<div class = "inner">
+								<img class ="liked" id = "myImgNine" onclick='nameForColor("myImgNine", "divNine","divNineText");'/>
+									<div class = "liked" id  = "divNine" onclick='nameForColor("myImgNine", "divNine","divNineText");'><text id= "divNineText"/></div>
+								</div><div class="inner">
+								<div class ="ininner">
+								<h4><text id = "nameFrontNine"/></h4></br>
+								</div>
+								<div class ="ininnertwo">
+									<text id = "synopsisFrontNine"/>
+								</div>
+							</div>
+						</div>
+					</td>
+				</tr>	
+			</table>
+
+			<!-- Programs 4,5 and 6 -->
+			<table id="front" >
+				<tr>
+					<td>
+						<div class = "outer">
+							<div class = "inner"><img class = "liked" id  = "myImgFour"  onclick='nameForColor("myImgFour", "divFour","divFourText");'/>
+								<div class = "liked" id  = "divFour" onclick='nameForColor("myImgFour", "divFour","divFourText");'><text id= "divFourText"/></div>
+							</div><div class = "inner">
+							<div class ="ininner">
+								<h4><text id = "nameFrontFour"/></h4></br>
+							</div>
+							<div class ="ininnertwo">
+							<text id = "synopsisFrontFour"/></div>
+							</div>
+						</div>						
+					</td>
+					<td>
+						<div class = "outer">
+							<div class = "inner">
+								<img class = "liked" id = "myImgEight"  onclick='nameForColor("myImgEight", "divEight","divEightText");'/>
+									<div class = "liked" id  = "divEight" onclick='nameForColor("myImgEight", "divEight","divEightText");'><text id= "divEightText"/></div>
+							</div><div class = "inner">
+							<div class ="ininner"><h4><text id = "nameFrontEight"/></h4></br>
+							</div>
+							<div class ="ininnertwo">
+								<text id = "synopsisFrontEight"/>
+							</div>
+							</div>
+						</div>
+						
+					</td>
+					<td>
+						<div class = "outer">
+							<div class = "inner">
+								<img class = "liked" id = "myImgSix"  onclick='nameForColor("myImgSix", "divSix","divSixText");'/>
+								<div class = "liked" id  = "divSix" onclick='nameForColor("myImgSix", "divSix","divSixText");'><text id= "divSixText"/></div>
+							</div><div class="inner">
+							<div class ="ininner">
+								<h4><text id = "nameFrontSix"/></h4></br></div>
+								<div class ="ininnertwo">
+								<text id = "synopsisFrontSix"/>
+							</div>
+							</div>
+						</div>
+					</td>
+					<td>
+						<div class = "outer">
+							<div class = "inner">
+								<img class ="liked" id = "myImgSeven" onclick='nameForColor("myImgSeven", "divSeven","divSevenText");'/>
+									<div class = "liked" id  = "divSeven" onclick='nameForColor("myImgSeven", "divSeven","divSevenText");'><text id= "divSevenText"/></div>
+								</div><div class="inner">
+								<div class ="ininner">
+								<h4> <text id = "nameFrontSeven"/></h4></br></div>
+								<div class ="ininnertwp">
+								<text id = "synopsisFrontSeven"/>
+							</div>
+							</div>
+						</div>
+					</td>
+				</tr>	
+			</table>
+			
+		</div>
+
+		<div class="hot-container">
+			<p>
+				<button id = "button" class="btn btn-blue" onclick = "backToInstructions();">Back</button>
+				<button id = "button" class="btn btn-blue" onclick = "secondDiv();">Next</button>
+			</p>
+		</div>
+
+	</div>
+
+	<div id ="preferences">
+		<div id="progressbar_preference"></div>
+		<h3>Part 2: Your TV preferences</h3>
+		<p>The following three questions are dealing with your TV preferences.</br>
+		Note: all your answers will be kept strictly confidential and will not be linked to your identity.</p>
+		<div id = "personal">
+			<b>What is your most favourite TV programme?</b></br>
+			<textarea id="control"></textarea>
+		</div>
+
+		<div id = "personal">
+			<b>What is (are) your favourite TV genre(s)?</b><br>
+			<table id ="genre">
+				<tbody>
+					<tr>
+						<td><input name ="genreCheck" type="checkbox" value="Comedy">Comedy<br></td>
+						<td><input name ="genreCheck" type="checkbox" value="Drama">Drama<br></td>
+						<td><input name ="genreCheck" type="checkbox" value="Entertainment">Entertainment<br></td>
+					</tr>
+					<tr>
+						<td><input name ="genreCheck" type="checkbox" value="Factual">Factual<br></td>
+						<td><input name ="genreCheck" type="checkbox" value="Music">Music<br></td>
+						<td><input name ="genreCheck" type="checkbox" value="News">News<br></td>
+					</tr>
+					<tr>
+						<td><input name ="genreCheck" type="checkbox" value="Religion">Religion &amp; Ethics<br></td>
+						<td><input name ="genreCheck" type="checkbox" value="Sport">Sport<br></td>
+						<td><input name ="genreCheck" type="checkbox" value="Other" onclick="var input = document.getElementById('genreOther'); if(this.checked){ input.disabled = false; input.focus();}else{input.disabled=true;}">Other<br>
+						<input id="genreOther" name="genreOther" disabled="disabled"/></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+				
+			<div id = "personal">
+			<b>What is (are) your favourite TV programme format(s)?</b><br>
+				<table id ="genre">
+				<tbody>
+					<tr>
+						<td><input name ="formatCheck" type="checkbox" value="Animation">Animation<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Appeals">Appeals<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Bulletins">Bulletins<br></td>
+					</tr>
+					<tr>
+						<td><input name ="formatCheck" type="checkbox" value="Discussion">Discussion &amp; Talk<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Docudramas">Docudramas<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Documentaries">Documentaries<br></td>
+					</tr>
+					<tr>
+						<td><input name ="formatCheck" type="checkbox" value="Films">Films<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Games">Games &amp; Quizzes<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Magazines">Magazines &amp; Reviews<br></td>
+					</tr>
+					<tr>
+						<td><input name = "formatCheck" type="checkbox" value="Makeovers">Makeovers<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Performance">Performance &amp; Events<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Readings">Readings<br></td>
+					</tr>
+					<tr>
+						<td><input name ="formatCheck" type="checkbox" value="Reality">Reality<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Talent">Talent Shows<br></td>
+						<td><input name ="formatCheck" type="checkbox" value="Other" onclick="var input = document.getElementById('formatOther'); if(this.checked){ input.disabled = false; input.focus();}else{input.disabled=true;}">Other<br>
+						<input id="formatOther" name="formatOther" disabled="disabled"/></td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+
+		<div class="hot-container">
+			<p>
+				<button id = "button" class="btn btn-blue" onclick = "backToFirst();">Back</button>
+				<button id = "button" class="btn btn-blue" onclick =  "preferencesToDemographics();">Next</button>
+			</p>
+		</div>
+
+
+	</div>
+
+	<div id ="personal_questions">
+		<div id="progressbar_two"></div>
+		<div id="personal" style='margin-top:3em'>
+			<h3>Part 3: Tell us a bit about yourself</h3>
+			<p>
+				The following four questions are dealing with your demographics.</br>
+				Note: all your answers will be kept strictly confidential and will not be linked to your identity.
+			</p>
+		</div>
+
+		<div id = "personal">
+			<b>What is your gender?</b></br>
+			<input id="likertGender" type="radio" value="Male" name="gender"/>Male</br>
+			<input id="likertGender" type="radio" value="Female" name="gender"/>Female</br>
+			<input id="likertGender" type="radio" value="Other" name="gender"/>Other</br>
+		</div>
+
+		<div id = "personal">
+			<b>What is your age?</b></br>
+			<input id = "age" type="number" min="1" max="100" value="">
+		</div>
+
+		<div id = "personal">
+			<b>What is the highest level of education you completed?</b></br>
+			<input id="education" type="radio" value="None" name="education"/>No schooling completed</br>
+			<input id="education" type="radio" value="High school graduate" name="education"/>High school graduate</br>
+			<input id="education" type="radio" value="Some college" name="education"/>Some college credit, no degree</br>
+			<input id="education" type="radio" value="Bachelor degree" name="education"/>Bachelor's degree</br>
+			<input id="education" type="radio" value="Master degree" name="education"/>Master's degree</br>
+			<input id="education" type="radio" value="Advanced graduate or Ph.D." name="education"/>Advanced graduate work or Ph.D.</br>
+
+		</div>
+
+
+		<div id = "personal">
+			<b>In which country do you live?</b></br>
+			<input id="country" type="radio" value="England" name="country"/>England</br>
+			<input id="country" type="radio" value="Scotland" name="country"/>Scotland</br>
+			<input id="country" type="radio" value="Wales" name="country"/>Wales</br>
+			<input id="country" type="radio" value="Northern Ireland" name="country"/>Northern Ireland</br>
+			<!-- OTHER?? 
+			<input id = "countryCheck" name ="country" type="radio" value="Other" onclick="var input = document.getElementById('countryOther'); if(this.checked){ input.disabled = false; input.focus();}else{input.disabled=true;}">Other<br>
+			<input id="countryOther" name="countryOther" disabled="disabled"/>
+			-->
+		</div>
+
+		<!--
+		CROWDFLOWER ID??
+		ADD WITH CHECK IF EVERTYTHING FILLED IN
+		STORE ID
+		WITH ENDUSER WRITE TO DATABASE
+		<div id = "personal">
+			<b>Please fill in your crowdflower ID</b></br>
+			<textarea id="idCrowd"></textarea>
+
+		</div>
+		-->
+
+		<!-- Control Question -->
+		
+		<div class="hot-container">
+			<p>
+				<button id = "button" class="btn btn-blue" onclick = "backToPreferences();">Back</button>
+				<button id = "button" class="btn btn-blue" onclick =  "demographicsToRecs();">Next</button>
+			</p>
+		</div>
+
+		<!-- Button for progress -->
+	</div>
+
+<!-- ###############################  End First Page  ############################### -->
+
+<!-- ###############################  Waiting Page  ############################### -->
+	<div id="wait_page">
+		<div id="progressbar_wait"></div>
+		<center>
+			<div id = "waitText" style = 'margin-top:4em'>
+			Please wait a moment while the recommendations are made.</br>
+			You will be redirected automatically.
+			</div>
+			<div>
+			<img width= "100" height = "100" src="./Images/loading.gif"/>
+			</div>
+		</center>
+	</div>
+
+<!-- ###############################  End Waiting Page  ############################### -->
+
+
+<!-- ###############################  Recommendation Pages  ############################### -->
+
+	<div id = "reccommendation">
+		
+		<div id="progressbar"></div>
+		<h3>Part 4: Tell us what you think of our recommendations</h3>
+		<p>We have generated 18 recommendations of TV Programmes for you.</br>
+		Please read the description of each TV programme and answer the questions about it as a recommendation to you.</p>
+		<text id="header"></text>
+		<div id="recDiv">
+		
+	   	<table id = "recTable">
+			<tr>
+				<td id ="none">
+					<div id = "imgRec">
+						<div id ="centered">
+							<img id = "recOne"/>
+						</div>
+					</div>
+				</td><td style="text-align:left;vertical-align:top;padding:0">
+					<h3><text id = "nameRecOne"/></h3>
+					<div class="h">
+						<text id = "synopsisRecOne"/>
+					</div>
+					<div class="h">
+						<text id = "genreText"/>
+					</div>
+					<div class="h">
+						<text id = "genreRecOne"/>
+					</div>
+					<div class="h">
+						<text id = "formatText"/>
+					</div>
+					<div class="h">
+						<text id = "formatRecOne"/>
+					</div>
+					<div class="h">
+						<text id = "subjectText"/>
+					</div>
+					<div class="h">
+						<text id = "subjectRecOne"/>
+					</div>
+					<div class="h">
+						<text id = "contributorsText"/>
+					</div>
+					<div class="h">
+						<text id = "contributorsRecOne"/>
+					</div>
+				</td>
+			</tr>
+		</table>
+		</div>
+
+		<div id = "knowDiv">
+			<b>Have you seen this programme?</b></br>
+			<input id="know" type="radio" value="1" name="know" onclick = "dropKnow(knowDivDrop, 'know');"/>Yes</br>
+			<input id="know" type="radio" value="2" name="know" onclick = "dropKnow(knowDivDrop, 'unknown');"/>No</br>
+		</div>
+
+		<div id ="knowDivDrop">
+			<b><text id="knowDropText"/></b></br>
+			<input id="like" type="radio" value="1" name="like"/>Yes</br>
+			<input id="like" type="radio" value="2" name="like"/>No</br>
+		</div>
+
+		<div id ="likedPrograms">
+			<text id = "divLike" style="text-align:left;vertical-align:top;padding:0"/>
+		</div>
+
+
+		<div id = "likertDiv">
+			<table id = "striped" class="striped-columns border">
+				<thead>
+					<tr><th></th>
+			            <th>Completely Disagree</th>
+			            <th>Disagree</th>
+			            <th>Neutral</th>
+			            <th>Agree</th>
+			            <th>Completely Agree</th>
+			        </tr>
+			    </thead>
+
+				<tbody>
+					<tr>
+			            <td id="label">I did not think of this TV programme, but it seems interesting to me</td>
+			            <td data-label ="Completely Disagree"><input id="likertOne" type="radio" value="1" name="pleasantOne"/></td>
+			            <td data-label ="Disagree"><input id="likertOne" type="radio" value="2" name="pleasantOne"/></td>
+			            <td data-label ="Neutral"><input id="likertOne" type="radio" value="3" name="pleasantOne"/></td>
+			            <td data-label ="Agree"><input id="likertOne" type="radio" value="4" name="pleasantOne"/></td>
+			            <td data-label ="Completely Agree"><input id="likertOne" type="radio" value="5" name="pleasantOne"/></td>
+			        </tr>
+			        <tr>
+			            <td id="label">This TV programme does not seem interesting to me</td>
+			            <td data-label ="Completely Disagree"><input id="likertOne" type="radio" value="1" name="relevanceOne"/></td>
+			            <td data-label ="Disagree"><input id="likertOne" type="radio" value="2" name="relevanceOne"/></td>
+			            <td data-label ="Neutral"><input id="likertOne" type="radio" value="3" name="relevanceOne"/></td>
+			            <td data-label ="Agree"><input id="likertOne" type="radio" value="4" name="relevanceOne"/></td>
+			            <td data-label ="Completely Agree"><input id="likertOne" type="radio" value="5" name="relevanceOne"/></td>
+			        </tr>
+			        <tr>
+			            <td id="label">I am surprised to get this TV programme recommended</td>
+			            <td data-label ="Completely Disagree"><input id="likertOne" type="radio" value="1" name="expectOne"/></td>
+			            <td data-label ="Disagree"><input id="likertOne" type="radio" value="2" name="expectOne"/></td>
+			            <td data-label ="Neutral"><div id = "input"><input id="likertOne" type="radio" value="3" name="expectOne"/></td>
+			            <td data-label ="Agree"><input id="likertOne" type="radio" value="4" name="expectOne"/></td>
+			            <td data-label ="Completely Agree"><input id="likertOne" type="radio" value="5" name="expectOne"/></td>
+			        </tr>
+			        <tr>
+			            <td id="label">This recommendation fits my personal preferences</td>
+			            <td data-label ="Completely Disagree"><input id="likertOne" type="radio" value="1" name="interestOne"/></td>
+			            <td data-label ="Disagree"><input id="likertOne" type="radio" value="2" name="interestOne"/></td>
+			            <td data-label ="Neutral"><input id="likertOne" type="radio" value="3" name="interestOne"/></td>
+			            <td data-label ="Agree"><input id="likertOne" type="radio" value="4" name="interestOne"/></td>
+			            <td data-label ="Completely Agree"><input id="likertOne" type="radio" value="5" name="interestOne"/></td>
+			        </tr>
+			        <!--
+			         <tr>
+			            <td id="label">This recommendation feels familiar</td>
+			            <td data-label ="Completely Disagree"><input id="likertOne" type="radio" value="1" name="familiarOne"/></td>
+			            <td data-label ="Disagree"><input id="likertOne" type="radio" value="2" name="familiarOne"/></td>
+			            <td data-label ="Neutral"><input id="likertOne" type="radio" value="3" name="familiarOne"/></td>
+			            <td data-label ="Agree"><input id="likertOne" type="radio" value="4" name="familiarOne"/></td>
+			            <td data-label ="Completely Agree"><input id="likertOne" type="radio" value="5" name="familiarOne"/></td>
+			        </tr>
+
+			    	-->
+			    </tbody>
+			</table><br>
+		</div>
+
+		<div class="hot-container">
+			<p>
+				<button id = "button" class="btn btn-blue" onclick="back();">Back</button>
+				<button id = "button" class="btn btn-blue" onclick="oneToTwo();">Next</button>
+			</p>
+		</div>
+	</div>
+<!-- ###############################  End Recommendation Page  ############################### -->
+
+<!-- ###############################  Last Page With Code  ############################### -->
+	<div id = "page_four">
+		<center><p>Thank you very much for participating.</p>
+			<p>Please insert the following code on CrowdFlower to complete your job: <b><text id = "code"></text></b></p></center>
+	</div>
+
+
+
+
+</div>
+<script type="text/javascript" src="javaScript.php"></script>
+</body>
+</html>
