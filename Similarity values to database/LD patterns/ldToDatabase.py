@@ -8,10 +8,10 @@ from array import array
 import MySQLdb
 
 def writeSim(pid1, pid2, cosine):
-	conn = MySQLdb.connect(host= "localhost",
-                  user="Manon",
-                  passwd="AbbyBruno1991",
-                  db="vistatv-dbs")
+	conn = MySQLdb.connect(host= "host",
+                  user="username",
+                  passwd="password",
+                  db="database")
 
 	x = conn.cursor()
 
@@ -244,8 +244,7 @@ for i in pids:
 	pid_one.append(addInfo)
 	pid_two.append(addInfo)
 print len(pid_one)
-#print pid_one
-#print pid_two
+
 for pid1 in pid_one:
 	check = extractSimilar(pid1[0])
 	for pid2 in pid_two:
@@ -258,31 +257,3 @@ for pid1 in pid_one:
 				cosine = 0
 			writeSim(pid1[0],pid2[0],cosine)
 	pid_two.remove(pid1)
-
-		
-	# get similar pids
-	#print "1", pid1[0]
-	#for pid2 in pid_two:
-		#print "2", pid2[0]
-		#if not pid1[0] == pid2[0]:
-			#print "hello"
-			#print pid1[0], pid2[0]
-			#cosine = calculateCosine(pid1,pid2)
-			#writeSim(pid1[0], pid2[0], cosine)
-	#pid_two.remove(pid1)
-
-
-
-# for every pid1
-	# for very other pid2
-		# calculate similarity value
-			# write similarity value to database
-
-
-	# take away pid1 from list
-
-
-#def calculate sim (pid1, pid2)
-	# eextract data BBC
-	# take into account the information that is avaiable for both
-	# calculate similarity between to
